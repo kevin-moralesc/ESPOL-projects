@@ -1,5 +1,3 @@
-package Refactorizado;
-
 public class ConsoleView {
     
     public void printRoundHeader(int round, int draws) {

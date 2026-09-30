@@ -1,5 +1,3 @@
-package Refactorizado;
-
 public interface IPlayer {
     Choice makeChoice();
     void incrementWins();

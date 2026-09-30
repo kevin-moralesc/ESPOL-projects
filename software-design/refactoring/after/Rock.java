@@ -1,5 +1,3 @@
-package Refactorizado;
-
 public class Rock implements Choice {
     @Override
     public boolean beats(Choice otherChoice) {

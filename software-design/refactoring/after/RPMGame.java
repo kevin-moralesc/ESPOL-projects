@@ -1,5 +1,3 @@
-package Refactorizado;
-
 public class RPMGame {
     private IPlayer player1;
     private IPlayer player2;

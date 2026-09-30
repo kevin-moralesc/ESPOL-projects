@@ -1,5 +1,3 @@
-package Refactorizado;
-
 public class Scissors implements Choice {
     @Override
     public boolean beats(Choice otherChoice) {
