@@ -1,0 +1,9 @@
+# Ejecutable
+secret
+
+# Object files
+*.o
+
+# program output
+*.enc
+*.dec

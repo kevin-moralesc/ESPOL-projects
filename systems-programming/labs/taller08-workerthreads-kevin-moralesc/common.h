@@ -1,0 +1,69 @@
+#ifndef COMMON_H
+#define COMMON_H
+
+#include <stdio.h>
+#include <stdbool.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <string.h>
+#include <sys/types.h>
+#include <sys/socket.h>
+#include <errno.h>
+#include <sys/stat.h>
+#include <netdb.h>
+#include <arpa/inet.h>
+// include semaphore
+#include <semaphore.h>
+#define MAXLINE 1024
+
+///////////////////////////////////////
+/* Funciones de gestión de conexión */
+
+/**
+ * Open and return a listening socket on port. This function is reentrant and protocol-independent.
+ *
+ * @param port Character array with TCP port, decimal.
+ *
+ * @return A listening socker. On error, returns -1 and sets errno.
+ */
+int open_listenfd(char *port);
+
+
+/**
+ * Open connection to server at <hostname, port> and 
+ * return a socket descriptor ready for reading and writing. This
+ * function is reentrant and protocol-independent.
+ *
+ * @param hostname Character array with IP address or hostname.
+ * @param port Character array with TCP port, decimal.
+ *
+ * @return Socket file descriptor. On error, returns -1 and sets errno.
+ */
+int open_clientfd(char *hostname, char *port);
+
+/**
+ * Closes the socket, prints error on STDERR and exits.
+ *
+ * @param connfd Socket file descriptor.
+ */
+void connection_error(int connfd);
+
+#endif /* COMMON_H */
+
+
+// Estructura del buffer para el patrón Productor-Consumidor
+typedef struct {
+    int *buf;          // Arreglo de enteros para guardar los descriptores de los sockets (connfd)
+    int n;             // Capacidad máxima del buffer
+    int front;         // Índice del primer elemento (para remover)
+    int rear;          // Índice del último elemento (para insertar)
+    sem_t mutex;       // Semáforo binario que protege el acceso al buffer
+    sem_t slots;       // Semáforo que cuenta los espacios disponibles en el buffer
+    sem_t items;       // Semáforo que cuenta los items disponibles en el buffer
+} sbuf_t;
+
+// Definición de las funciones del buffer
+void sbuf_init(sbuf_t *sp, int n);
+void sbuf_insert(sbuf_t *sp, int item);
+int sbuf_remove(sbuf_t *sp);
+

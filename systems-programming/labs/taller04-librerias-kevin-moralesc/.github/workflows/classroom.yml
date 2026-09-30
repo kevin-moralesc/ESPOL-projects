@@ -1,0 +1,38 @@
+name: Autograding Tests
+'on':
+- push
+- repository_dispatch
+permissions:
+  checks: write
+  actions: read
+  contents: read
+jobs:
+  run-autograding-tests:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-classroom[bot]'
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    - name: hash
+      id: hash
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: hash
+        setup-command: ''
+        command: make -f Testfile hash
+        timeout: 2
+    - name: makefile
+      id: makefile
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: makefile
+        setup-command: ''
+        command: make -f Testfile makefile
+        timeout: 2
+    - name: Autograding Reporter
+      uses: classroom-resources/autograding-grading-reporter@v1
+      env:
+        HASH_RESULTS: "${{steps.hash.outputs.result}}"
+        MAKEFILE_RESULTS: "${{steps.makefile.outputs.result}}"
+      with:
+        runners: hash,makefile

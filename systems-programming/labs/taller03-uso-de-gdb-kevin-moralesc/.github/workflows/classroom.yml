@@ -1,0 +1,50 @@
+name: Autograding Tests
+'on':
+- push
+- repository_dispatch
+permissions:
+  checks: write
+  actions: read
+  contents: read
+jobs:
+  run-autograding-tests:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-classroom[bot]'
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    - name: readme
+      id: readme
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: readme
+        setup-command: ''
+        command: make -f Testfile readme
+        timeout: 1
+        max-score: 1
+    - name: normal
+      id: normal
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: normal
+        setup-command: ''
+        command: make -f Testfile normal
+        timeout: 2
+        max-score: 2
+    - name: invalido
+      id: invalido
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: invalido
+        setup-command: ''
+        command: make -f Testfile invalido
+        timeout: 2
+        max-score: 2
+    - name: Autograding Reporter
+      uses: classroom-resources/autograding-grading-reporter@v1
+      env:
+        README_RESULTS: "${{steps.readme.outputs.result}}"
+        NORMAL_RESULTS: "${{steps.normal.outputs.result}}"
+        INVALIDO_RESULTS: "${{steps.invalido.outputs.result}}"
+      with:
+        runners: readme,normal,invalido

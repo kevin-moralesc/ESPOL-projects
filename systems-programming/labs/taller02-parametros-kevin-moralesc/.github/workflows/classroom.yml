@@ -1,0 +1,50 @@
+name: Autograding Tests
+'on':
+- push
+- repository_dispatch
+permissions:
+  checks: write
+  actions: read
+  contents: read
+jobs:
+  run-autograding-tests:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-classroom[bot]'
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    - name: ayuda
+      id: ayuda
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: ayuda
+        setup-command: ''
+        command: make -f Testfile
+        timeout: 1
+        max-score: 1
+    - name: ascendente
+      id: ascendente
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: ascendente
+        setup-command: ''
+        command: make -f Testfile ascendente
+        timeout: 2
+        max-score: 2
+    - name: desencente
+      id: desencente
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: desencente
+        setup-command: ''
+        command: make -f Testfile descendente
+        timeout: 2
+        max-score: 2
+    - name: Autograding Reporter
+      uses: classroom-resources/autograding-grading-reporter@v1
+      env:
+        AYUDA_RESULTS: "${{steps.ayuda.outputs.result}}"
+        ASCENDENTE_RESULTS: "${{steps.ascendente.outputs.result}}"
+        DESENCENTE_RESULTS: "${{steps.desencente.outputs.result}}"
+      with:
+        runners: ayuda,ascendente,desencente

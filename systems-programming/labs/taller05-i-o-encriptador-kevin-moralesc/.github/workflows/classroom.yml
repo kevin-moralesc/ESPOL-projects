@@ -1,0 +1,38 @@
+name: Autograding Tests
+'on':
+- push
+- repository_dispatch
+permissions:
+  checks: write
+  actions: read
+  contents: read
+jobs:
+  run-autograding-tests:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-classroom[bot]'
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    - name: encrypt
+      id: encrypt
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: encrypt
+        setup-command: ''
+        command: make -f Testfile encrypt
+        timeout: 2
+    - name: decrypt
+      id: decrypt
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: decrypt
+        setup-command: ''
+        command: make -f Testfile decrypt
+        timeout: 2
+    - name: Autograding Reporter
+      uses: classroom-resources/autograding-grading-reporter@v1
+      env:
+        ENCRYPT_RESULTS: "${{steps.encrypt.outputs.result}}"
+        DECRYPT_RESULTS: "${{steps.decrypt.outputs.result}}"
+      with:
+        runners: encrypt,decrypt
