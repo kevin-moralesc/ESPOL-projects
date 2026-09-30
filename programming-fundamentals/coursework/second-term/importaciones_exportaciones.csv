@@ -1,0 +1,872 @@
+﻿CE_ANIO;CE_PERIODO;CE_PRODUCTO;CE_EXP_PESO;CE_EXP_VALOR;CE_IMP_PESO;CE_IMP_VALOR;CE_BAL_PESO;CE_BAL_VALOR
+2010;Enero - Diciembre;Ajo;4283.745;298.354;12912.321;18974.588;-8628.576;-18676.234
+2010;Enero - Diciembre;Arroz pilado;12826.722;8208.672;168.891;264.288;12657.831;7944.384
+2010;Enero - Diciembre;Arveja fresco y seco;101.743;110.162;2958.522;1342.259;-2856.779;-1232.097
+2010;Enero - Diciembre;Arveja congelada y conserva;11568.019;14466.69;169.495;242.43;11398.524;14224.26
+2010;Enero - Diciembre;Azúcar crudo y refinado;18924.875;13589.163;41202.606;25077.558;-22277.731;-11488.395
+2010;Enero - Diciembre;Banano;4944967.803;1954288.284;0;0;4944967.803;1954288.284
+2010;Enero - Diciembre;Brócoli;54927.61635;57430.71637;0.40675;0.3561;54927.2096;57430.36027
+2010;Enero - Diciembre;Cacao crudo y tostado;116317.687;350199.299;0;0;116317.687;350199.299
+2010;Enero - Diciembre;Café soluble, extracto y preparaciones;17181.935;104653.414;1438.832;16957.136;15743.103;87696.278
+2010;Enero - Diciembre;Café sin tostar y tostado;21352.462;56258.075;2794.718;5166.2;18557.744;51091.875
+2010;Enero - Diciembre;Cebolla bulbo (roja y perla);18242.902;1419.062;53853.69;10708.946;-35610.788;-9289.884
+2010;Enero - Diciembre;Chocolate;634.251;4280.423;5721.855;21966.411;-5087.604;-17685.988
+2010;Enero - Diciembre;Fréjol fresco y seco;5453.711;5562.943;1419.892;1117.726;4033.819;4445.217
+2010;Enero - Diciembre;Fréjol congelado y conserva;3595.805;3663.129;13.694;30.177;3582.111;3632.952
+2010;Enero - Diciembre;Lenteja;57.56196;25.59827;16309.90463;15384.9575;-16252.34267;-15359.35923
+2010;Enero - Diciembre;Maíz duro seco amarillo;3812.29;1117.985;471695.021;115734.871;-467882.731;-114616.886
+2010;Enero - Diciembre;Maíz suave incluye mote y dulce (fresco y seco);6.69;9.528;3974.652;2824.395;-3967.962;-2814.867
+2010;Enero - Diciembre;Maíz dulce congelado y conserva;577.239;898.635;346.808;516.251;230.431;382.384
+2010;Enero - Diciembre;Manzana;1.466;5.069;50618.554;38225.133;-50617.088;-38220.064
+2010;Enero - Diciembre;Maracuyá fresco;92.7738814;104.6830418;0;0;92.7738814;104.6830418
+2010;Enero - Diciembre;Maracuyá jugo;24654.799;83377.199;8;69.223;24646.799;83307.976
+2010;Enero - Diciembre;Mora fresca y congelada;36.582;78.14054;1.91436;5.3372;34.66764;72.80334
+2010;Enero - Diciembre;Orito;7659.10161;3405.12151;0;0;7659.10161;3405.12151
+2010;Enero - Diciembre;Palma aceite crudo y refinado;145781.235;140486.642;15501.701;15306.836;130279.534;125179.806
+2010;Enero - Diciembre;Palmito en conserva;27658.101;61505.063;0;0;27658.101;61505.063
+2010;Enero - Diciembre;Papa fresca;4811.199;2985.028;0;0;4811.199;2985.028
+2010;Enero - Diciembre;Papa conelada y conserva;1.019;1.763;6764.396;8469.554;-6763.377;-8467.791
+2010;Enero - Diciembre;Piña;95647.145;41237.854;0;0;95647.145;41237.854
+2010;Enero - Diciembre;Pitahaya;41.059;193.431;0;0;41.059;193.431
+2010;Enero - Diciembre;Plátano;162050.931;52591.012;0;0;162050.931;52591.012
+2010;Enero - Diciembre;Quinua;37.871;99.161;459.837;608.258;-421.966;-509.097
+2010;Enero - Diciembre;Rosas, flores y capullos frescos o secos;106562.9441;607760.8512;2.649;32.73;106560.2951;607728.1212
+2010;Enero - Diciembre;Soya aceite crudo y refinado;8213.664;11341.84;112097.817;114718.64;-103884.153;-103376.8
+2010;Enero - Diciembre;Soya en grano;0.327;0.612;4.015;10.652;-3.688;-10.04
+2010;Enero - Diciembre;Soya torta;0;0;523000.104;200937.677;-523000.104;-200937.677
+2010;Enero - Diciembre;Tomate de árbol;23.62;65.817;8.612;8.524;15.008;57.293
+2010;Enero - Diciembre;Tomate riñón fresco;3180.13;200.153;0;0;3180.13;200.153
+2010;Enero - Diciembre;Tomate riñón conserva incluye pasta;0;0;5072.259;5596.615;-5072.259;-5596.615
+2010;Enero - Diciembre;Trigo;0;0;611547.676;180515.074;-611547.676;-180515.074
+2010;Enero - Diciembre;Uva incluye pasa;35.37018;266.73645;21405.65229;25313.13793;-21370.28211;-25046.40148
+2010;Enero - Diciembre;Uvilla fresca y seca;91.15013;334.43159;0;0;91.15013;334.43159
+2010;Enero - Diciembre;Semilla de varios cultivos;514.072;2493.346;6768.46;33230.387;-6254.388;-30737.041
+2010;Enero - Diciembre;Abacá;11065.284;13126.558;0;0;11065.284;13126.558
+2010;Enero - Diciembre;Látex, caucho natural, sintético y elaborados;9754.041;38703.159;82809.168;336697.3;-73055.127;-297994.141
+2010;Enero - Diciembre;Madera en bruto y elaborados;385268.282;212235.497;73880.952;67457.03;311387.33;144778.467
+2010;Enero - Diciembre;Pasta de madera y papel o cartón;69083.365;48112.775;356210.707;411653.386;-287127.342;-363540.611
+2010;Enero - Diciembre;Ganado bovino en pie los demás;0;0;0;0;0;0
+2010;Enero - Diciembre;Ganado bovino carne;0;0;1203.549;3994.388;-1203.549;-3994.388
+2010;Enero - Diciembre;Ganado porcino en pie los demás;0;0;1128.058;2499.242;-1128.058;-2499.242
+2010;Enero - Diciembre;Ganado porcino carne;3.43;21.827;13679.548;22743.597;-13676.118;-22721.77
+2010;Enero - Diciembre;Pollo en pie y pollito BB;0;0;166.828;9095.895;-166.828;-9095.895
+2010;Enero - Diciembre;Leche líquida;10313.996;10149.897;0;0;10313.996;10149.897
+2010;Enero - Diciembre;Leche en polvo;1.319;1.216;40;138.125;-38.681;-136.909
+2010;Enero - Diciembre;Leche evaporada;0;0;519.493;660.601;-519.493;-660.601
+2010;Enero - Diciembre;Leche condensada;0;0;1848.98;3533.114;-1848.98;-3533.114
+2010;Enero - Diciembre;Quesos;79.447;217.618;443.421;2158.647;-363.974;-1941.029
+2010;Enero - Diciembre;Huevos para incubar;253.909;1173.42;4196.928;15391.181;-3943.019;-14217.761
+2010;Enero - Diciembre;Otros;433454.2233;462290.9372;528896.515;636058.0673;-95442.29163;-173767.13
+2011;Enero - Diciembre;Ajo;194.513;41.994;10525.55;9104.401;-10331.037;-9062.407
+2011;Enero - Diciembre;Arroz pilado;25369.692;19600.716;152.657;254.681;25217.035;19346.035
+2011;Enero - Diciembre;Arveja fresco y seco;15.323;19.801;2930.764;1474.648;-2915.441;-1454.847
+2011;Enero - Diciembre;Arveja congelada y conserva;8670.827;11213.441;176.133;257.498;8494.694;10955.943
+2011;Enero - Diciembre;Azúcar crudo y refinado;18835.761;14652.05;58654.513;49226.231;-39818.752;-34574.181
+2011;Enero - Diciembre;Banano;5391885.433;2145597.214;16.063;6.317;5391869.37;2145590.897
+2011;Enero - Diciembre;Brócoli;57610.18857;66356.55668;1.3955;1.2607;57608.79307;66355.29598
+2011;Enero - Diciembre;Cacao crudo y tostado;158483.451;473570.117;0;0;158483.451;473570.117
+2011;Enero - Diciembre;Café soluble, extracto y preparaciones;20345.35;143167.051;1190.354;16900.314;19154.996;126266.737
+2011;Enero - Diciembre;Café sin tostar y tostado;35455.031;116932.897;6397.2;17121.791;29057.831;99811.106
+2011;Enero - Diciembre;Cebolla bulbo (roja y perla);24011.25;5155.421;41999.905;8941.44;-17988.655;-3786.019
+2011;Enero - Diciembre;Chocolate;1299.544;18459.237;5574.495;27320.232;-4274.951;-8860.995
+2011;Enero - Diciembre;Fréjol fresco y seco;11068.146;11432.153;1249.45;1083.178;9818.696;10348.975
+2011;Enero - Diciembre;Fréjol congelado y conserva;3476.246;3845.762;30.156;56.198;3446.09;3789.564
+2011;Enero - Diciembre;Lenteja;4.7833;8.477;18394.338;16932.58215;-18389.5547;-16924.10515
+2011;Enero - Diciembre;Maíz duro seco amarillo;4021.403;1166.118;531393.669;164771.937;-527372.266;-163605.819
+2011;Enero - Diciembre;Maíz suave incluye mote y dulce (fresco y seco);20.212;45.387;3642.659;2824.249;-3622.447;-2778.862
+2011;Enero - Diciembre;Maíz dulce congelado y conserva;567.691;949.364;292.6;428.196;275.091;521.168
+2011;Enero - Diciembre;Manzana;13.127;18.72;51665.887;41279.609;-51652.76;-41260.889
+2011;Enero - Diciembre;Maracuyá fresco;2580.458011;358.3819408;0;0;2580.458011;358.3819408
+2011;Enero - Diciembre;Maracuyá jugo;28282.546;69753.223;0;0;28282.546;69753.223
+2011;Enero - Diciembre;Mora fresca y congelada;52.9879;81.96361;6.02332;18.55041;46.96458;63.4132
+2011;Enero - Diciembre;Orito;7200.21154;3695.18654;3.264;2.4038;7196.94754;3692.78274
+2011;Enero - Diciembre;Palma aceite crudo y refinado;249883.561;302353.12;11828.72;13171.651;238054.841;289181.469
+2011;Enero - Diciembre;Palmito en conserva;31761.238;73442.538;17;45.464;31744.238;73397.074
+2011;Enero - Diciembre;Papa fresca;17063.663;12380.463;0;0;17063.663;12380.463
+2011;Enero - Diciembre;Papa conelada y conserva;3.305;3.727;7416.121;7964.851;-7412.816;-7961.124
+2011;Enero - Diciembre;Piña;88713.578;41851.04;1.224;5.77;88712.354;41845.27
+2011;Enero - Diciembre;Pitahaya;71.96;318.803;0;0;71.96;318.803
+2011;Enero - Diciembre;Plátano;217909.052;70035.538;0;0;217909.052;70035.538
+2011;Enero - Diciembre;Quinua;100.108;252.241;150.015;326.45;-49.907;-74.209
+2011;Enero - Diciembre;Rosas, flores y capullos frescos o secos;116975.0124;675674.5861;3.414;76.519;116971.5984;675598.0671
+2011;Enero - Diciembre;Soya aceite crudo y refinado;3244.635;4723.211;112136.633;142777.73;-108891.998;-138054.519
+2011;Enero - Diciembre;Soya en grano;95;50.69;9.993;28.998;85.007;21.692
+2011;Enero - Diciembre;Soya torta;223.99;164.576;607221.969;253148.139;-606997.979;-252983.563
+2011;Enero - Diciembre;Tomate de árbol;36.871;80.16;54.65;67.149;-17.779;13.011
+2011;Enero - Diciembre;Tomate riñón fresco;1583.667;112.779;0;0;1583.667;112.779
+2011;Enero - Diciembre;Tomate riñón conserva incluye pasta;0;0;5010.006;5539.146;-5010.006;-5539.146
+2011;Enero - Diciembre;Trigo;0;0;565523.139;220798.063;-565523.139;-220798.063
+2011;Enero - Diciembre;Uva incluye pasa;118.45199;474.74163;26730.17028;27951.85855;-26611.71829;-27477.11692
+2011;Enero - Diciembre;Uvilla fresca y seca;60.07616;224.59789;0;0;60.07616;224.59789
+2011;Enero - Diciembre;Semilla de varios cultivos;715.694;5639.238;6050.311;34874.267;-5334.617;-29235.029
+2011;Enero - Diciembre;Abacá;9664.766;12907.345;44.2;21.637;9620.566;12885.708
+2011;Enero - Diciembre;Látex, caucho natural, sintético y elaborados;14457.498;68524.127;82502.674;403857.167;-68045.176;-335333.04
+2011;Enero - Diciembre;Madera en bruto y elaborados;350877.831;232938.093;84774.447;76754.687;266103.384;156183.406
+2011;Enero - Diciembre;Pasta de madera y papel o cartón;87330.95;66539.323;368634;459082.097;-281303.05;-392542.774
+2011;Enero - Diciembre;Ganado bovino en pie los demás;0;0;0;0;0;0
+2011;Enero - Diciembre;Ganado bovino carne;0;0;1147.109;4739.407;-1147.109;-4739.407
+2011;Enero - Diciembre;Ganado porcino en pie los demás;0;0;1062.087;3042.609;-1062.087;-3042.609
+2011;Enero - Diciembre;Ganado porcino carne;0;0;15554.149;28976.774;-15554.149;-28976.774
+2011;Enero - Diciembre;Pollo en pie y pollito BB;0;0;141.734;8658.097;-141.734;-8658.097
+2011;Enero - Diciembre;Leche líquida;19429.97;19399.697;0;0;19429.97;19399.697
+2011;Enero - Diciembre;Leche en polvo;750;3587.78;50.015;246.27;699.985;3341.51
+2011;Enero - Diciembre;Leche evaporada;210;388.85;458.242;720.327;-248.242;-331.477
+2011;Enero - Diciembre;Leche condensada;0;0;1648.706;3493.237;-1648.706;-3493.237
+2011;Enero - Diciembre;Quesos;103.14;387.001;328.293;1668.843;-225.153;-1281.842
+2011;Enero - Diciembre;Huevos para incubar;0;0;3512.269;13151.315;-3512.269;-13151.315
+2011;Enero - Diciembre;Otros;522742.8001;558175.3015;505521.9279;737136.7464;17220.87221;-178961.4449
+2012;Enero - Diciembre;Ajo;59.137;7.168;9522.063;6912.4;-9462.926;-6905.232
+2012;Enero - Diciembre;Arroz pilado;14418.44;10829.093;44886.486;17937.489;-30468.046;-7108.396
+2012;Enero - Diciembre;Arveja fresco y seco;1.594;1.161;3765.687;2245.814;-3764.093;-2244.653
+2012;Enero - Diciembre;Arveja congelada y conserva;8873.347;11757.345;176.713;331.808;8696.634;11425.537
+2012;Enero - Diciembre;Azúcar crudo y refinado;13054.54;11115.298;40378.918;26683.176;-27324.378;-15567.878
+2012;Enero - Diciembre;Banano;4981161.64;1992464.069;7923.119;3785.848;4973238.521;1988678.221
+2012;Enero - Diciembre;Brócoli;56449.72987;68620.90268;35.53075;34.0841;56414.19912;68586.81858
+2012;Enero - Diciembre;Cacao crudo y tostado;146894.473;344902.416;0;0;146894.473;344902.416
+2012;Enero - Diciembre;Café soluble, extracto y preparaciones;23543.478;185579.08;1728.653;22570.483;21814.825;163008.597
+2012;Enero - Diciembre;Café sin tostar y tostado;28160.931;75342.25;2282.784;8350.028;25878.147;66992.222
+2012;Enero - Diciembre;Cebolla bulbo (roja y perla);17916.252;1678.591;28131.98;5729.122;-10215.728;-4050.531
+2012;Enero - Diciembre;Chocolate;1530.442;26211.835;6387.37;32452.1;-4856.928;-6240.265
+2012;Enero - Diciembre;Fréjol fresco y seco;11984.809;13222.502;894.689;942.749;11090.12;12279.753
+2012;Enero - Diciembre;Fréjol congelado y conserva;2118.58;2705.489;32.306;58.047;2086.274;2647.442
+2012;Enero - Diciembre;Lenteja;7.06172;10.303;15834.0489;12297.26995;-15826.98718;-12286.96695
+2012;Enero - Diciembre;Maíz duro seco amarillo;2749.26;812.015;302829.688;89652.942;-300080.428;-88840.927
+2012;Enero - Diciembre;Maíz suave incluye mote y dulce (fresco y seco);23.531;72.146;2184.955;2237.224;-2161.424;-2165.078
+2012;Enero - Diciembre;Maíz dulce congelado y conserva;716.6;1229.984;268.361;422.269;448.239;807.715
+2012;Enero - Diciembre;Manzana;207.24;239.419;51415.408;46283.62;-51208.168;-46044.201
+2012;Enero - Diciembre;Maracuyá fresco;3009.667764;444.444481;0;0;3009.667764;444.444481
+2012;Enero - Diciembre;Maracuyá jugo;10720.116;27242.229;51.006;90.993;10669.11;27151.236
+2012;Enero - Diciembre;Mora fresca y congelada;44.05752;105.05292;5.20139;17.3638;38.85613;87.68912
+2012;Enero - Diciembre;Orito;16102.13896;9962.31822;7.616;6.83318;16094.52296;9955.48504
+2012;Enero - Diciembre;Palma aceite crudo y refinado;276091.582;300952.066;66.872;74.223;276024.71;300877.843
+2012;Enero - Diciembre;Palmito en conserva;30551.027;72988.176;16.728;46.41;30534.299;72941.766
+2012;Enero - Diciembre;Papa fresca;7014.778;6279.939;0;0;7014.778;6279.939
+2012;Enero - Diciembre;Papa conelada y conserva;167.022;621.975;7904.483;8484.997;-7737.461;-7863.022
+2012;Enero - Diciembre;Piña;61679.041;30150.395;448.24;346.898;61230.801;29803.497
+2012;Enero - Diciembre;Pitahaya;73.192;437.531;0;0;73.192;437.531
+2012;Enero - Diciembre;Plátano;185501.618;65639.244;567.548;243.427;184934.07;65395.817
+2012;Enero - Diciembre;Quinua;459.59;1295.997;86.545;213.06;373.045;1082.937
+2012;Enero - Diciembre;Rosas, flores y capullos frescos o secos;117449.2811;713497.9252;4.704;64.441;117444.5771;713433.4842
+2012;Enero - Diciembre;Soya aceite crudo y refinado;1292.091;1938.92;107958.834;139140.587;-106666.743;-137201.667
+2012;Enero - Diciembre;Soya en grano;102.08;56.47;3.356;8.04;98.724;48.43
+2012;Enero - Diciembre;Soya torta;0;0;517357.463;252512.01;-517357.463;-252512.01
+2012;Enero - Diciembre;Tomate de árbol;43.149;102.454;3;3.18;40.149;99.274
+2012;Enero - Diciembre;Tomate riñón fresco;1678.295;157.721;0;0;1678.295;157.721
+2012;Enero - Diciembre;Tomate riñón conserva incluye pasta;10.062;20.112;5319.121;5890.099;-5309.059;-5869.987
+2012;Enero - Diciembre;Trigo;0.033;0.15;565267.841;206661.214;-565267.808;-206661.064
+2012;Enero - Diciembre;Uva incluye pasa;48.97058;189.39406;23198.10271;29828.87757;-23149.13213;-29639.48351
+2012;Enero - Diciembre;Uvilla fresca y seca;93.71519;374.75379;0;0;93.71519;374.75379
+2012;Enero - Diciembre;Semilla de varios cultivos;755.117;7207.732;7332.609;46187.695;-6577.492;-38979.963
+2012;Enero - Diciembre;Abacá;11066.265;16988.96;179.2;72.427;10887.065;16916.533
+2012;Enero - Diciembre;Látex, caucho natural, sintético y elaborados;14016.501;74171.083;87925.555;450107.291;-73909.054;-375936.208
+2012;Enero - Diciembre;Madera en bruto y elaborados;495624.416;241179.392;93173.587;93804.701;402450.829;147374.691
+2012;Enero - Diciembre;Pasta de madera y papel o cartón;87514.289;65556.924;410827.774;465800.711;-323313.485;-400243.787
+2012;Enero - Diciembre;Ganado bovino en pie los demás;0;0;0;0;0;0
+2012;Enero - Diciembre;Ganado bovino carne;0;0;1121.255;5061.496;-1121.255;-5061.496
+2012;Enero - Diciembre;Ganado porcino en pie los demás;0;0;939.698;1994.547;-939.698;-1994.547
+2012;Enero - Diciembre;Ganado porcino carne;0.062;0.577;15521.137;26782.406;-15521.075;-26781.829
+2012;Enero - Diciembre;Pollo en pie y pollito BB;0;0;173.927;10876.514;-173.927;-10876.514
+2012;Enero - Diciembre;Leche líquida;19693.513;19801.426;387.585;396.252;19305.928;19405.174
+2012;Enero - Diciembre;Leche en polvo;3236.448;15997.504;100;463.959;3136.448;15533.545
+2012;Enero - Diciembre;Leche evaporada;0;0;502.789;870.513;-502.789;-870.513
+2012;Enero - Diciembre;Leche condensada;0;0;1720.015;3657.911;-1720.015;-3657.911
+2012;Enero - Diciembre;Quesos;92.484;382.275;295.551;1530.927;-203.067;-1148.652
+2012;Enero - Diciembre;Huevos para incubar;0;0;4501.17;17974.348;-4501.17;-17974.348
+2012;Enero - Diciembre;Otros;464127.7857;536873.3105;511557.0093;767972.3334;-47429.22352;-231099.0229
+2013;Enero - Diciembre;Ajo;0.005;0.021;13280.045;10902.757;-13280.04;-10902.736
+2013;Enero - Diciembre;Arroz pilado;43176.637;32816.443;256.697;371.075;42919.94;32445.368
+2013;Enero - Diciembre;Arveja fresco y seco;0.009;0.008;3611.146;2420.817;-3611.137;-2420.809
+2013;Enero - Diciembre;Arveja congelada y conserva;11014.912;14763.253;370.604;564.599;10644.308;14198.654
+2013;Enero - Diciembre;Azúcar crudo y refinado;12073.392;5367.022;2112.579;1692.913;9960.813;3674.109
+2013;Enero - Diciembre;Banano;5195403.67;2215243.621;124.323;54.014;5195279.347;2215189.607
+2013;Enero - Diciembre;Brócoli;47297.93483;63431.24966;6.008;6.53925;47291.92683;63424.71041
+2013;Enero - Diciembre;Cacao crudo y tostado;176582.35;429077.276;0;0;176582.35;429077.276
+2013;Enero - Diciembre;Café soluble, extracto y preparaciones;24356.595;189591.785;1681.531;22284.266;22675.064;167307.519
+2013;Enero - Diciembre;Café sin tostar y tostado;12165.706;29069.185;518.409;2202;11647.297;26867.185
+2013;Enero - Diciembre;Cebolla bulbo (roja y perla);21031.34;2042.264;35513.034;6987.113;-14481.694;-4944.849
+2013;Enero - Diciembre;Chocolate;1293.54;21800.965;7249.668;37038.246;-5956.128;-15237.281
+2013;Enero - Diciembre;Fréjol fresco y seco;10278.434;9950.448;780.479;629.536;9497.955;9320.912
+2013;Enero - Diciembre;Fréjol congelado y conserva;3506.895;4229.118;29.786;73.652;3477.109;4155.466
+2013;Enero - Diciembre;Lenteja;6.4;11.17728;20110.2634;14306.83316;-20103.8634;-14295.65588
+2013;Enero - Diciembre;Maíz duro seco amarillo;748.462;223.011;131334.595;42515.491;-130586.133;-42292.48
+2013;Enero - Diciembre;Maíz suave incluye mote y dulce (fresco y seco);32.388;76.983;1722.779;1430.915;-1690.391;-1353.932
+2013;Enero - Diciembre;Maíz dulce congelado y conserva;357.494;676.223;396.998;612.255;-39.504;63.968
+2013;Enero - Diciembre;Manzana;0.28;1.035;58157.866;51405.255;-58157.586;-51404.22
+2013;Enero - Diciembre;Maracuyá fresco;256.3797562;392.4646166;0;0;256.3797562;392.4646166
+2013;Enero - Diciembre;Maracuyá jugo;9637.436;44959.401;0;0;9637.436;44959.401
+2013;Enero - Diciembre;Mora fresca y congelada;36.87193;109.04303;10.242497;31.717985;26.629433;77.325045
+2013;Enero - Diciembre;Orito;41627.12793;23938.07657;0;0;41627.12793;23938.07657
+2013;Enero - Diciembre;Palma aceite crudo y refinado;201793.098;197366.18;2096.198;2052.287;199696.9;195313.893
+2013;Enero - Diciembre;Palmito en conserva;31163.522;77325.722;0;0;31163.522;77325.722
+2013;Enero - Diciembre;Papa fresca;267.228;200.362;0;0;267.228;200.362
+2013;Enero - Diciembre;Papa conelada y conserva;158.751;560.15;8599.755;9307.064;-8441.004;-8746.914
+2013;Enero - Diciembre;Piña;51603.543;25311.679;0;0;51603.543;25311.679
+2013;Enero - Diciembre;Pitahaya;97.677;753.587;0;0;97.677;753.587
+2013;Enero - Diciembre;Plátano;203032.909;81018.333;0;0;203032.909;81018.333
+2013;Enero - Diciembre;Quinua;100.008;371.585;48.67;145.266;51.338;226.319
+2013;Enero - Diciembre;Rosas, flores y capullos frescos o secos;153715.032;830250.689;3.784;45.446;153711.248;830205.243
+2013;Enero - Diciembre;Soya aceite crudo y refinado;87.138;151.505;126708.774;150400.591;-126621.636;-150249.086
+2013;Enero - Diciembre;Soya en grano;1.477;3.002;5.285;13.074;-3.808;-10.072
+2013;Enero - Diciembre;Soya torta;0;0;636982.847;339362.072;-636982.847;-339362.072
+2013;Enero - Diciembre;Tomate de árbol;80.909;206.712;0;0;80.909;206.712
+2013;Enero - Diciembre;Tomate riñón fresco;824.237;226.074;0;0;824.237;226.074
+2013;Enero - Diciembre;Tomate riñón conserva incluye pasta;10.65;25.153;5380.862;5893.244;-5370.212;-5868.091
+2013;Enero - Diciembre;Trigo;0;0;591315.222;218695.729;-591315.222;-218695.729
+2013;Enero - Diciembre;Uva incluye pasa;8.88436;81.735185;23790.01636;32571.46297;-23781.132;-32489.72778
+2013;Enero - Diciembre;Uvilla fresca y seca;81.36894;377.317442;0;0;81.36894;377.317442
+2013;Enero - Diciembre;Semilla de varios cultivos;495.27;5697.594;8745.504;56616.436;-8250.234;-50918.842
+2013;Enero - Diciembre;Abacá;9162.55;13541.518;22.4;9.588;9140.15;13531.93
+2013;Enero - Diciembre;Látex, caucho natural, sintético y elaborados;12849.249;72192.54;82240.174;393099.561;-69390.925;-320907.021
+2013;Enero - Diciembre;Madera en bruto y elaborados;483275.066;237067.171;115746.839;102275.623;367528.227;134791.548
+2013;Enero - Diciembre;Pasta de madera y papel o cartón;92823.414;56358.652;379499.448;435604.603;-286676.034;-379245.951
+2013;Enero - Diciembre;Ganado bovino en pie los demás;0;0;0;0;0;0
+2013;Enero - Diciembre;Ganado bovino carne;0;0;1006.304;4490.818;-1006.304;-4490.818
+2013;Enero - Diciembre;Ganado porcino en pie los demás;0;0;538.87;1551.085;-538.87;-1551.085
+2013;Enero - Diciembre;Ganado porcino carne;0.522;3.829;12998.32;22455.876;-12997.798;-22452.047
+2013;Enero - Diciembre;Pollo en pie y pollito BB;0;0;170.986;11464.146;-170.986;-11464.146
+2013;Enero - Diciembre;Leche líquida;5047.511;4951.795;0;0;5047.511;4951.795
+2013;Enero - Diciembre;Leche en polvo;395.049;1209.313;50;212.95;345.049;996.363
+2013;Enero - Diciembre;Leche evaporada;0;0;525.647;982.173;-525.647;-982.173
+2013;Enero - Diciembre;Leche condensada;0;0;2002.474;4413.262;-2002.474;-4413.262
+2013;Enero - Diciembre;Quesos;83.675;300.312;248.254;1566.729;-164.579;-1266.417
+2013;Enero - Diciembre;Huevos para incubar;0;0;4828.277;20931.221;-4828.277;-20931.221
+2013;Enero - Diciembre;Otros;473384.0082;580588.8482;494800.4199;828473.5736;-21416.41165;-247884.7254
+2014;Enero - Diciembre;Ajo;0.002;0.011;15788.697;11726.722;-15788.695;-11726.711
+2014;Enero - Diciembre;Arroz pilado;16054.075;10886.298;189.051;271.506;15865.024;10614.792
+2014;Enero - Diciembre;Arveja fresco y seco;5.58;16.081;4545.965;2729.423;-4540.385;-2713.342
+2014;Enero - Diciembre;Arveja congelada y conserva;9872.052;14103.008;354.801;475.22;9517.251;13627.788
+2014;Enero - Diciembre;Azúcar crudo y refinado;9190.069;5196.853;22330.166;12236.483;-13140.097;-7039.63
+2014;Enero - Diciembre;Banano;5715769.464;2469724.387;0;0;5715769.464;2469724.387
+2014;Enero - Diciembre;Brócoli;53671.00214;71236.30233;15.6242;15.3881;53655.37794;71220.91423
+2014;Enero - Diciembre;Cacao crudo y tostado;198878.734;587427.667;0;0;198878.734;587427.667
+2014;Enero - Diciembre;Café soluble, extracto y preparaciones;22601.954;153044.87;1716.635;21369.485;20885.319;131675.385
+2014;Enero - Diciembre;Café sin tostar y tostado;9027.776;25213.363;134.652;1179.148;8893.124;24034.215
+2014;Enero - Diciembre;Cebolla bulbo (roja y perla);17222.326;2756.251;66702.411;12889.979;-49480.085;-10133.728
+2014;Enero - Diciembre;Chocolate;1763.065;26112.114;7719.344;40201.16;-5956.279;-14089.046
+2014;Enero - Diciembre;Fréjol fresco y seco;7041.861;6918.162;122.726;167.438;6919.135;6750.724
+2014;Enero - Diciembre;Fréjol congelado y conserva;3684.596;4987.116;9.822;28.249;3674.774;4958.867
+2014;Enero - Diciembre;Lenteja;1.065;0.462;16903.77865;11426.10223;-16902.71365;-11425.64023
+2014;Enero - Diciembre;Maíz duro seco amarillo;1370.034;350.664;113655.65;28728.733;-112285.616;-28378.069
+2014;Enero - Diciembre;Maíz suave incluye mote y dulce (fresco y seco);8.785;23.567;2564.215;1837.626;-2555.43;-1814.059
+2014;Enero - Diciembre;Maíz dulce congelado y conserva;877.653;1377.681;217.543;308.519;660.11;1069.162
+2014;Enero - Diciembre;Manzana;0.135;0.749;68686.027;54013.51;-68685.892;-54012.761
+2014;Enero - Diciembre;Maracuyá fresco;1100.22346;531.534711;0;0;1100.22346;531.534711
+2014;Enero - Diciembre;Maracuyá jugo;19836.529;89846.678;0;0;19836.529;89846.678
+2014;Enero - Diciembre;Mora fresca y congelada;34.69239;75.92558;0.18;0.873128;34.51239;75.052452
+2014;Enero - Diciembre;Orito;28861.7886;22860.57334;0;0;28861.7886;22860.57334
+2014;Enero - Diciembre;Palma aceite crudo y refinado;219898.571;218727.493;5122.394;4286.681;214776.177;214440.812
+2014;Enero - Diciembre;Palmito en conserva;35245.37;81919.14;0;0;35245.37;81919.14
+2014;Enero - Diciembre;Papa fresca;356.717;387.392;0;0;356.717;387.392
+2014;Enero - Diciembre;Papa conelada y conserva;77.523;134.742;7914.73;8010.391;-7837.207;-7875.649
+2014;Enero - Diciembre;Piña;55544.548;26947.832;0;0;55544.548;26947.832
+2014;Enero - Diciembre;Pitahaya;124.209;1240.102;0;0;124.209;1240.102
+2014;Enero - Diciembre;Plátano;201828.913;83563.64;0;0;201828.913;83563.64
+2014;Enero - Diciembre;Quinua;727.632;3386.558;26.73;59.599;700.902;3326.959
+2014;Enero - Diciembre;Rosas, flores y capullos frescos o secos;165189.843;918243.229;9.46;171.715;165180.383;918071.514
+2014;Enero - Diciembre;Soya aceite crudo y refinado;132.6;197.059;112514.977;119189.102;-112382.377;-118992.043
+2014;Enero - Diciembre;Soya en grano;3.899;8.2;6.183;20.286;-2.284;-12.086
+2014;Enero - Diciembre;Soya torta;0;0;751675.15;406712.043;-751675.15;-406712.043
+2014;Enero - Diciembre;Tomate de árbol;132.734;304.123;0;0;132.734;304.123
+2014;Enero - Diciembre;Tomate riñón fresco;45.269;101.409;0;0;45.269;101.409
+2014;Enero - Diciembre;Tomate riñón conserva incluye pasta;0.268;0.395;6277.635;7405.446;-6277.367;-7405.051
+2014;Enero - Diciembre;Trigo;0;0;798630.657;262318.397;-798630.657;-262318.397
+2014;Enero - Diciembre;Uva incluye pasa;254.20255;714.60501;30287.22997;34791.97116;-30033.02742;-34077.36615
+2014;Enero - Diciembre;Uvilla fresca y seca;16.78332;102.29513;0;0;16.78332;102.29513
+2014;Enero - Diciembre;Semilla de varios cultivos;207.211;2543.395;9910.69;66849.423;-9703.479;-64306.028
+2014;Enero - Diciembre;Abacá;8267.075;12988.203;26.1;15.622;8240.975;12972.581
+2014;Enero - Diciembre;Látex, caucho natural, sintético y elaborados;26737.858;54774.676;85470.326;383108.022;-58732.468;-328333.346
+2014;Enero - Diciembre;Madera en bruto y elaborados;625868.2;296100.464;91222.671;92120.017;534645.529;203980.447
+2014;Enero - Diciembre;Pasta de madera y papel o cartón;87353.686;57189.253;421655.625;451567.979;-334301.939;-394378.726
+2014;Enero - Diciembre;Ganado bovino en pie los demás;0;0;0;0;0;0
+2014;Enero - Diciembre;Ganado bovino carne;1.652;10.489;1050.048;4698.107;-1048.396;-4687.618
+2014;Enero - Diciembre;Ganado porcino en pie los demás;0;0;32.005;483.312;-32.005;-483.312
+2014;Enero - Diciembre;Ganado porcino carne;0.241;2.068;10238.698;19297.424;-10238.457;-19295.356
+2014;Enero - Diciembre;Pollo en pie y pollito BB;0;0;264.94;14003.357;-264.94;-14003.357
+2014;Enero - Diciembre;Leche líquida;8285.568;7543.14;0;0;8285.568;7543.14
+2014;Enero - Diciembre;Leche en polvo;2234.3;11108.168;5;25.57;2229.3;11082.598
+2014;Enero - Diciembre;Leche evaporada;0;0;432.562;731.051;-432.562;-731.051
+2014;Enero - Diciembre;Leche condensada;0;0;1833.662;3803.543;-1833.662;-3803.543
+2014;Enero - Diciembre;Quesos;83.16;346.962;26.725;303.609;56.435;43.353
+2014;Enero - Diciembre;Huevos para incubar;0;0;5227.512;23635.78;-5227.512;-23635.78
+2014;Enero - Diciembre;Otros;408539.5685;573355.6009;505354.4996;815840.9612;-96814.93107;-242485.3603
+2015;Enero - Diciembre;Ajo;0;0;15347.254;15262.494;-15347.254;-15262.494
+2015;Enero - Diciembre;Arroz pilado;1112.333;1011.602;193.444;272.063;918.889;739.539
+2015;Enero - Diciembre;Arveja fresco y seco;39.152;7.122;2176.47;1169.694;-2137.318;-1162.572
+2015;Enero - Diciembre;Arveja congelada y conserva;183.68;253.179;207.6;218.318;-23.92;34.861
+2015;Enero - Diciembre;Azúcar crudo y refinado;8284.927;7365.636;49898.689;24981.613;-41613.762;-17615.977
+2015;Enero - Diciembre;Banano;6039628.518;2706034.846;0;0;6039628.518;2706034.846
+2015;Enero - Diciembre;Brócoli;59945.37816;82747.01112;4.28355;4.8037;59941.09461;82742.20742
+2015;Enero - Diciembre;Cacao crudo y tostado;236066.279;705346.594;0.51;2.222;236065.769;705344.372
+2015;Enero - Diciembre;Café soluble, extracto y preparaciones;17629.627;126657.617;1511.57;18192.042;16118.057;108465.575
+2015;Enero - Diciembre;Café sin tostar y tostado;6467.645;19858.017;202.34;1628.541;6265.305;18229.476
+2015;Enero - Diciembre;Cebolla bulbo (roja y perla);1370.052;334.144;737.81;141.182;632.242;192.962
+2015;Enero - Diciembre;Chocolate;1270.802;20089.273;6131.98;29191.998;-4861.178;-9102.725
+2015;Enero - Diciembre;Fréjol fresco y seco;7284.134;6809.595;189.957;178.737;7094.177;6630.858
+2015;Enero - Diciembre;Fréjol congelado y conserva;4401.749;6192.541;2.704;6.232;4399.045;6186.309
+2015;Enero - Diciembre;Lenteja;1.177;0.3;19590.13351;17697.89275;-19588.95651;-17697.59275
+2015;Enero - Diciembre;Maíz duro seco amarillo;106.464;43.634;32953.83;7278.742;-32847.366;-7235.108
+2015;Enero - Diciembre;Maíz suave incluye mote y dulce (fresco y seco);13.154;12.79;161.224;100.551;-148.07;-87.761
+2015;Enero - Diciembre;Maíz dulce congelado y conserva;255.426;424.316;198.546;270.518;56.88;153.798
+2015;Enero - Diciembre;Manzana;0;0;45908.128;38059.897;-45908.128;-38059.897
+2015;Enero - Diciembre;Maracuyá fresco;604.6244444;987.5463466;0;0;604.6244444;987.5463466
+2015;Enero - Diciembre;Maracuyá jugo;19604.116;66561.691;0.26;7.729;19603.856;66553.962
+2015;Enero - Diciembre;Mora fresca y congelada;43.54417;98.11289;0;0;43.54417;98.11289
+2015;Enero - Diciembre;Orito;24734.69871;20727.12952;0;0;24734.69871;20727.12952
+2015;Enero - Diciembre;Palma aceite crudo y refinado;275119.496;225386.5;11637.327;8200.229;263482.169;217186.271
+2015;Enero - Diciembre;Palmito en conserva;30767.183;71649.43;0;0;30767.183;71649.43
+2015;Enero - Diciembre;Papa fresca;285.881;310.271;0;0;285.881;310.271
+2015;Enero - Diciembre;Papa conelada y conserva;79.698;258.472;8390.269;7430.76;-8310.571;-7172.288
+2015;Enero - Diciembre;Piña;66076.316;31966.824;38.98;32.873;66037.336;31933.951
+2015;Enero - Diciembre;Pitahaya;345.434;3267.434;0;0;345.434;3267.434
+2015;Enero - Diciembre;Plátano;197688.026;77772.967;0;0;197688.026;77772.967
+2015;Enero - Diciembre;Quinua;1437.782;5535.485;38.975;28.373;1398.807;5507.112
+2015;Enero - Diciembre;Rosas, flores y capullos frescos o secos;145824.408;819939.281;0;0;145824.408;819939.281
+2015;Enero - Diciembre;Soya aceite crudo y refinado;79.296;124.498;101625.162;96931.251;-101545.866;-96806.753
+2015;Enero - Diciembre;Soya en grano;1.177;7.71;4.069;11.886;-2.892;-4.176
+2015;Enero - Diciembre;Soya torta;0;0;849674.146;381282.615;-849674.146;-381282.615
+2015;Enero - Diciembre;Tomate de árbol;150.225;379.65;80.1;10.168;70.125;369.482
+2015;Enero - Diciembre;Tomate riñón fresco;0;0;0;0;0;0
+2015;Enero - Diciembre;Tomate riñón conserva incluye pasta;0.326;0.11;6178.123;6992.261;-6177.797;-6992.151
+2015;Enero - Diciembre;Trigo;0;0;908200.658;252378.921;-908200.658;-252378.921
+2015;Enero - Diciembre;Uva incluye pasa;25.87531;123.55688;19824.41858;22421.6677;-19798.54327;-22298.11082
+2015;Enero - Diciembre;Uvilla fresca y seca;35.97666;213.0503;0;0;35.97666;213.0503
+2015;Enero - Diciembre;Semilla de varios cultivos;346.983;1878.347;8460.119;54984.027;-8113.136;-53105.68
+2015;Enero - Diciembre;Abacá;8555.306;14764.958;0;0;8555.306;14764.958
+2015;Enero - Diciembre;Látex, caucho natural, sintético y elaborados;10531.688;47904.749;78648.163;320547.358;-68116.475;-272642.609
+2015;Enero - Diciembre;Madera en bruto y elaborados;488103.989;327165.994;72411.666;65647.518;415692.323;261518.476
+2015;Enero - Diciembre;Pasta de madera y papel o cartón;66932.828;44324.556;375753.534;383232.128;-308820.706;-338907.572
+2015;Enero - Diciembre;Ganado bovino en pie los demás;0;0;425.654;4580.796;-425.654;-4580.796
+2015;Enero - Diciembre;Ganado bovino carne;0.505;2.779;1053.154;4667.482;-1052.649;-4664.703
+2015;Enero - Diciembre;Ganado porcino en pie los demás;0;0;26.29;476.404;-26.29;-476.404
+2015;Enero - Diciembre;Ganado porcino carne;0.073;0.321;6880.64;11094.579;-6880.567;-11094.258
+2015;Enero - Diciembre;Pollo en pie y pollito BB;18.572;1451.25;178.633;14808.944;-160.061;-13357.694
+2015;Enero - Diciembre;Leche líquida;3121.269;2947.862;0;0;3121.269;2947.862
+2015;Enero - Diciembre;Leche en polvo;720.368;3484.832;25;116.484;695.368;3368.348
+2015;Enero - Diciembre;Leche evaporada;0.154;0.021;664.043;983.818;-663.889;-983.797
+2015;Enero - Diciembre;Leche condensada;0;0;1947.842;3696.416;-1947.842;-3696.416
+2015;Enero - Diciembre;Quesos;84.959;398.858;16.822;218.18;68.137;180.678
+2015;Enero - Diciembre;Huevos para incubar;0;0;3012.084;13875.878;-3012.084;-13875.878
+2015;Enero - Diciembre;Otros;427381.2185;609184.9789;486945.0894;715258.3283;-59563.87085;-106073.3494
+2016;Enero - Diciembre;Ajo;0.066;0.66;12069.865;16245.737;-12069.799;-16245.077
+2016;Enero - Diciembre;Arroz pilado;210.287;230.18;94.974;131.625;115.313;98.555
+2016;Enero - Diciembre;Arveja fresco y seco;23.828;42.36;3630.279;1842.225;-3606.451;-1799.865
+2016;Enero - Diciembre;Arveja congelada y conserva;14.825;23.381;168.622;166.898;-153.797;-143.517
+2016;Enero - Diciembre;Azúcar crudo y refinado;107585.096;66264.127;47255.521;25016.044;60329.575;41248.083
+2016;Enero - Diciembre;Banano;5931393.377;2622823.539;0;0;5931393.377;2622823.539
+2016;Enero - Diciembre;Brócoli;61835.89167;85348.45876;2.3093;2.2527;61833.58237;85346.20606
+2016;Enero - Diciembre;Cacao crudo y tostado;227213.228;621965.192;30;123.321;227183.228;621841.871
+2016;Enero - Diciembre;Café soluble, extracto y preparaciones;19416.437;129556.571;1471.203;14950.277;17945.234;114606.294
+2016;Enero - Diciembre;Café sin tostar y tostado;5283.895;18992.984;484.526;1733.003;4799.369;17259.981
+2016;Enero - Diciembre;Cebolla bulbo (roja y perla);466.405;93.114;0;0;466.405;93.114
+2016;Enero - Diciembre;Chocolate;1784.253;23812.805;5546.262;25772.962;-3762.009;-1960.157
+2016;Enero - Diciembre;Fréjol fresco y seco;5987.941;5781.504;616.221;565.116;5371.72;5216.388
+2016;Enero - Diciembre;Fréjol congelado y conserva;2381.233;3613.499;2.853;3.746;2378.38;3609.753
+2016;Enero - Diciembre;Lenteja;0.383715;0.7574;18713.546;21586.88674;-18713.16229;-21586.12934
+2016;Enero - Diciembre;Maíz duro seco amarillo;22.025;25.232;63397.82;12794.223;-63375.795;-12768.991
+2016;Enero - Diciembre;Maíz suave incluye mote y dulce (fresco y seco);32.331;28.411;10;7.727;22.331;20.684
+2016;Enero - Diciembre;Maíz dulce congelado y conserva;92.517;174.098;135.184;176.309;-42.667;-2.211
+2016;Enero - Diciembre;Manzana;0;0;39908.637;30475.021;-39908.637;-30475.021
+2016;Enero - Diciembre;Maracuyá fresco;355.7782022;1162.806903;0;0;355.7782022;1162.806903
+2016;Enero - Diciembre;Maracuyá jugo;12270.591;55297.639;0.283;6.648;12270.308;55290.991
+2016;Enero - Diciembre;Mora fresca y congelada;64.15535;159.26907;0.024866;0.058087;64.130484;159.210983
+2016;Enero - Diciembre;Orito;38224.39417;29317.90397;0;0;38224.39417;29317.90397
+2016;Enero - Diciembre;Palma aceite crudo y refinado;312803.078;228150.744;70.617;130.111;312732.461;228020.633
+2016;Enero - Diciembre;Palmito en conserva;32416.965;65648.579;0;0;32416.965;65648.579
+2016;Enero - Diciembre;Papa fresca;338.957;414.455;0;0;338.957;414.455
+2016;Enero - Diciembre;Papa conelada y conserva;92.348;554.989;8424.428;7271.8;-8332.08;-6716.811
+2016;Enero - Diciembre;Piña;73989.535;37473.771;4;17.591;73985.535;37456.18
+2016;Enero - Diciembre;Pitahaya;871.019;6952.429;0;0;871.019;6952.429
+2016;Enero - Diciembre;Plátano;192922.305;78821.57;0;0;192922.305;78821.57
+2016;Enero - Diciembre;Quinua;1770.865;4793.74;0;0;1770.865;4793.74
+2016;Enero - Diciembre;Rosas, flores y capullos frescos o secos;143186.875;802461.432;1.128;7.017;143185.747;802454.415
+2016;Enero - Diciembre;Soya aceite crudo y refinado;3.591;5.414;102674.991;90318.372;-102671.4;-90312.958
+2016;Enero - Diciembre;Soya en grano;0;0;4.014;11.747;-4.014;-11.747
+2016;Enero - Diciembre;Soya torta;9;27;918262.086;362530.98;-918253.086;-362503.98
+2016;Enero - Diciembre;Tomate de árbol;255.978;698.106;212.57;26.717;43.408;671.389
+2016;Enero - Diciembre;Tomate riñón fresco;0;0;0;0;0;0
+2016;Enero - Diciembre;Tomate riñón conserva incluye pasta;22.443;69.621;5748.008;5662.527;-5725.565;-5592.906
+2016;Enero - Diciembre;Trigo;0;0;936338.479;228777.94;-936338.479;-228777.94
+2016;Enero - Diciembre;Uva incluye pasa;158.74178;393.81446;9149.955838;13116.06472;-8991.214058;-12722.25026
+2016;Enero - Diciembre;Uvilla fresca y seca;51.80796;313.4337;0.027;0.35532;51.78096;313.07838
+2016;Enero - Diciembre;Semilla de varios cultivos;264.75;2357.548;7916.489;51274.998;-7651.739;-48917.45
+2016;Enero - Diciembre;Abacá;11709.626;25140.149;0;0;11709.626;25140.149
+2016;Enero - Diciembre;Látex, caucho natural, sintético y elaborados;13264.049;52378.895;67925.662;230462.086;-54661.613;-178083.191
+2016;Enero - Diciembre;Madera en bruto y elaborados;744671.062;344828.319;58710.971;49276.032;685960.091;295552.287
+2016;Enero - Diciembre;Pasta de madera y papel o cartón;68498.918;40863.381;334655.842;314784.097;-266156.924;-273920.716
+2016;Enero - Diciembre;Ganado bovino en pie los demás;0;0;220.792;2335.76;-220.792;-2335.76
+2016;Enero - Diciembre;Ganado bovino carne;0;0;941.818;3973.746;-941.818;-3973.746
+2016;Enero - Diciembre;Ganado porcino en pie los demás;0;0;25.602;603.214;-25.602;-603.214
+2016;Enero - Diciembre;Ganado porcino carne;0.023;0.185;3557.809;5198.47;-3557.786;-5198.285
+2016;Enero - Diciembre;Pollo en pie y pollito BB;4.35;202.5;158.065;15160.555;-153.715;-14958.055
+2016;Enero - Diciembre;Leche líquida;267.876;488.834;0;0;267.876;488.834
+2016;Enero - Diciembre;Leche en polvo;393.507;1234.076;0;0;393.507;1234.076
+2016;Enero - Diciembre;Leche evaporada;0.006;0.023;433.687;550.753;-433.681;-550.73
+2016;Enero - Diciembre;Leche condensada;0;0;1789.417;2835.632;-1789.417;-2835.632
+2016;Enero - Diciembre;Quesos;109.879;485.818;32.285;278.103;77.594;207.715
+2016;Enero - Diciembre;Huevos para incubar;0;0;2598.767;11392.481;-2598.767;-11392.481
+2016;Enero - Diciembre;Otros;411246.2152;626644.3617;418539.0526;600473.4179;-7292.837437;26170.94385
+2017;Enero - Diciembre;Ajo;0;0;12492.351;14754.96775;-12492.351;-14754.96775
+2017;Enero - Diciembre;Arroz pilado;446.598;349.98841;148.827712;187.203292;297.770288;162.785118
+2017;Enero - Diciembre;Arveja fresco y seco;0.95093;2.593;4350.425029;1933.069609;-4349.474099;-1930.476609
+2017;Enero - Diciembre;Arveja congelada y conserva;9.69;13.49;350.193966;341.986161;-340.503966;-328.496161
+2017;Enero - Diciembre;Azúcar crudo y refinado;64568.61256;37943.49684;76128.71897;41803.28396;-11560.10642;-3859.787116
+2017;Enero - Diciembre;Banano;6095243.513;2753092.281;0;0;6095243.513;2753092.281
+2017;Enero - Diciembre;Brócoli;64936.26609;93879.29106;0;0;64936.26609;93879.29106
+2017;Enero - Diciembre;Cacao crudo y tostado;285228.8713;573012.9619;60;236.7418;285168.8713;572776.2201
+2017;Enero - Diciembre;Café soluble, extracto y preparaciones;14243.03652;101902.7744;1689.282091;21003.74138;12553.75443;80899.03305
+2017;Enero - Diciembre;Café sin tostar y tostado;5131.568973;17499.46626;340.151584;1734.998024;4791.417389;15764.46824
+2017;Enero - Diciembre;Cebolla bulbo (roja y perla);1135.438;249.2571;421.984;160.64688;713.454;88.61022
+2017;Enero - Diciembre;Chocolate;1730.061273;23251.83007;6986.858601;32649.1313;-5256.797328;-9397.301233
+2017;Enero - Diciembre;Fréjol fresco y seco;8687.95308;6992.21216;145.315;109.57171;8542.63808;6882.64045
+2017;Enero - Diciembre;Fréjol congelado y conserva;3305.14855;4992.29342;11.887873;14.913174;3293.260677;4977.380246
+2017;Enero - Diciembre;Lenteja;0.283;0.52928;21974.5989;23417.0964;-21974.3159;-23416.56712
+2017;Enero - Diciembre;Maíz duro seco amarillo;27.77727;17.9766;78578.21195;16283.56725;-78550.43468;-16265.59065
+2017;Enero - Diciembre;Maíz suave incluye mote y dulce (fresco y seco);27.45752;18.50778;0;0;27.45752;18.50778
+2017;Enero - Diciembre;Maíz dulce congelado y conserva;20.21907;29.5871;441.377049;533.558781;-421.157979;-503.971681
+2017;Enero - Diciembre;Manzana;0;0;54970.36215;45293.89294;-54970.36215;-45293.89294
+2017;Enero - Diciembre;Maracuyá fresco;109.80651;479.90844;0;0;109.80651;479.90844
+2017;Enero - Diciembre;Maracuyá jugo;14481.01356;48729.46357;0;0;14481.01356;48729.46357
+2017;Enero - Diciembre;Mora fresca y congelada;67.8703;155.42176;0;0;67.8703;155.42176
+2017;Enero - Diciembre;Orito;316407.7209;194867.7458;0;0;316407.7209;194867.7458
+2017;Enero - Diciembre;Palma aceite crudo y refinado;281621.3542;230385.0966;113.679688;212.23198;281507.6745;230172.8646
+2017;Enero - Diciembre;Palmito en conserva;31311.49096;61362.83726;0;0;31311.49096;61362.83726
+2017;Enero - Diciembre;Papa fresca;371.29403;367.84325;0;0;371.29403;367.84325
+2017;Enero - Diciembre;Papa conelada y conserva;89.70247;345.57735;9682.214644;8622.581719;-9592.512174;-8277.004369
+2017;Enero - Diciembre;Piña;83704.98218;44339.84381;0;0;83704.98218;44339.84381
+2017;Enero - Diciembre;Pitahaya;1935.17305;12879.20649;0;0;1935.17305;12879.20649
+2017;Enero - Diciembre;Plátano;158989.1643;76277.33882;0;0;158989.1643;76277.33882
+2017;Enero - Diciembre;Quinua;1938.4321;4706.55677;0;0;1938.4321;4706.55677
+2017;Enero - Diciembre;Rosas, flores y capullos frescos o secos;148173.2493;820480.3801;0.20481;1.88184;148173.0445;820478.4983
+2017;Enero - Diciembre;Soya aceite crudo y refinado;7.2918;11.26266;110352.0888;101358.7207;-110344.797;-101347.4581
+2017;Enero - Diciembre;Soya en grano;0;0;23.0178;47.608532;-23.0178;-47.608532
+2017;Enero - Diciembre;Soya torta;0;0;845613.6634;322722.2839;-845613.6634;-322722.2839
+2017;Enero - Diciembre;Tomate de árbol;277.4263;660.71026;82.62;10.5621;194.8063;650.14816
+2017;Enero - Diciembre;Tomate riñón fresco;5.64;11.269;0;0;5.64;11.269
+2017;Enero - Diciembre;Tomate riñón conserva incluye pasta;76.29603;132.97092;6548.650459;6134.890886;-6472.354429;-6001.919966
+2017;Enero - Diciembre;Trigo;0;0;1129032.979;280343.5621;-1129032.979;-280343.5621
+2017;Enero - Diciembre;Uva incluye pasa;40.51429;88.08548;10056.7554;19024.49907;-10016.24111;-18936.41359
+2017;Enero - Diciembre;Uvilla fresca y seca;177.848555;1578.28265;0.081;1.06596;177.767555;1577.21669
+2017;Enero - Diciembre;Semilla de varios cultivos;251.60016;1419.87504;8466.611308;53782.66857;-8215.011148;-52362.79353
+2017;Enero - Diciembre;Abacá;9886.871;22507.1361;0;0;9886.871;22507.1361
+2017;Enero - Diciembre;Látex, caucho natural, sintético y elaborados;12678.89489;49098.94151;92207.13789;324578.8793;-79528.243;-275479.9378
+2017;Enero - Diciembre;Madera en bruto y elaborados;720775.2291;354409.737;75035.39954;60826.31173;645739.8295;293583.4253
+2017;Enero - Diciembre;Pasta de madera y papel o cartón;68962.47823;42546.41881;382084.4658;376007.9044;-313121.9876;-333461.4856
+2017;Enero - Diciembre;Ganado bovino en pie los demás;0;0;218.4;2000.00001;-218.4;-2000.00001
+2017;Enero - Diciembre;Ganado bovino carne;0.26;0.18;1035.35257;5031.771213;-1035.09257;-5031.591213
+2017;Enero - Diciembre;Ganado porcino en pie los demás;0;0;22.854;461.41444;-22.854;-461.41444
+2017;Enero - Diciembre;Ganado porcino carne;0;0;3893.5434;6346.638525;-3893.5434;-6346.638525
+2017;Enero - Diciembre;Pollo en pie y pollito BB;0;0;149.446179;16404.61544;-149.446179;-16404.61544
+2017;Enero - Diciembre;Leche líquida;53.98321;145.36837;0;0;53.98321;145.36837
+2017;Enero - Diciembre;Leche en polvo;651.6015;2072.2423;0;0;651.6015;2072.2423
+2017;Enero - Diciembre;Leche evaporada;0;0;420.48288;599.70791;-420.48288;-599.70791
+2017;Enero - Diciembre;Leche condensada;0;0;1987.753398;3462.881941;-1987.753398;-3462.881941
+2017;Enero - Diciembre;Quesos;116.97213;518.51303;54.130072;468.945476;62.842058;49.567554
+2017;Enero - Diciembre;Huevos para incubar;0;0;1080.34314;5058.78456;-1080.34314;-5058.78456
+2017;Enero - Diciembre;Otros;408931.4946;597455.2721;571663.8135;771492.8386;-162732.3189;-174037.5665
+2018;Enero - Diciembre;Ajo;0.067;0.075;15557.31;14577.92485;-15557.243;-14577.84985
+2018;Enero - Diciembre;Arroz pilado;31556.05904;18478.10203;177.96131;237.463661;31378.09773;18240.63837
+2018;Enero - Diciembre;Arveja fresco y seco;27.12445;25.8084;4262.864986;1687.575495;-4235.740536;-1661.767095
+2018;Enero - Diciembre;Arveja congelada y conserva;2.24455;3.34;231.539513;225.981429;-229.294963;-222.641429
+2018;Enero - Diciembre;Azúcar crudo y refinado;3935.947092;3526.09043;38884.33397;17300.14551;-34948.38687;-13774.05508
+2018;Enero - Diciembre;Banano;6506357.927;3018577.331;0;0;6506357.927;3018577.331
+2018;Enero - Diciembre;Brócoli;74010.44994;111074.6792;0;0;74010.44994;111074.6792
+2018;Enero - Diciembre;Cacao crudo y tostado;296776.2303;672948.5929;60;238.764;296716.2303;672709.8289
+2018;Enero - Diciembre;Café soluble, extracto y preparaciones;9472.977309;69413.38416;1898.299067;22834.86829;7574.678242;46578.51588
+2018;Enero - Diciembre;Café sin tostar y tostado;4624.467525;13956.58306;1774.295125;4519.999735;2850.1724;9436.583328
+2018;Enero - Diciembre;Cebolla bulbo (roja y perla);0;0;0;0;0;0
+2018;Enero - Diciembre;Chocolate;1912.132236;29783.0745;8415.054203;40633.48142;-6502.921967;-10850.40692
+2018;Enero - Diciembre;Fréjol fresco y seco;6949.25004;6336.28732;288.94;320.77593;6660.31004;6015.51139
+2018;Enero - Diciembre;Fréjol congelado y conserva;2431.43691;3811.33498;15.598536;21.100878;2415.838374;3790.234102
+2018;Enero - Diciembre;Lenteja;0.5138;0.97322;22011.42589;14850.70421;-22010.91209;-14849.73099
+2018;Enero - Diciembre;Maíz duro seco amarillo;25.60394;15.16942;57309.189;10989.67631;-57283.58506;-10974.50689
+2018;Enero - Diciembre;Maíz suave incluye mote y dulce (fresco y seco);19.80559;31.89082;0;0;19.80559;31.89082
+2018;Enero - Diciembre;Maíz dulce congelado y conserva;61.88934;105.00615;312.89176;356.774497;-251.00242;-251.768347
+2018;Enero - Diciembre;Manzana;0;0;56099.12238;48286.51427;-56099.12238;-48286.51427
+2018;Enero - Diciembre;Maracuyá fresco;109.83981;425.82443;0;0;109.83981;425.82443
+2018;Enero - Diciembre;Maracuyá jugo;12129.3735;33935.38371;0;0;12129.3735;33935.38371
+2018;Enero - Diciembre;Mora fresca y congelada;62.0566;125.63891;11.5;50.55808;50.5566;75.08083
+2018;Enero - Diciembre;Orito;137845.0765;95796.64571;0;0;137845.0765;95796.64571
+2018;Enero - Diciembre;Palma aceite crudo y refinado;283069.3984;192629.6906;6469.90622;4137.767534;276599.4922;188491.923
+2018;Enero - Diciembre;Palmito en conserva;30950.8321;62586.78464;0;0;30950.8321;62586.78464
+2018;Enero - Diciembre;Papa fresca;308.6077;329.33656;0;0;308.6077;329.33656
+2018;Enero - Diciembre;Papa conelada y conserva;53.12375;327.21357;10506.14772;9579.36967;-10453.02397;-9252.1561
+2018;Enero - Diciembre;Piña;80749.68647;41150.46371;9.4;16.90755;80740.28647;41133.55616
+2018;Enero - Diciembre;Pitahaya;5152.90944;31996.89047;0;0;5152.90944;31996.89047
+2018;Enero - Diciembre;Plátano;214220.6878;94491.36658;0;0;214220.6878;94491.36658
+2018;Enero - Diciembre;Quinua;1719.35135;4270.3916;0;0;1719.35135;4270.3916
+2018;Enero - Diciembre;Rosas, flores y capullos frescos o secos;154803.2135;843372.2928;9.62295;85.269539;154793.5905;843287.0233
+2018;Enero - Diciembre;Soya aceite crudo y refinado;1.77826;2.79393;104929.4933;90404.97329;-104927.715;-90402.17936
+2018;Enero - Diciembre;Soya en grano;0.87678;6.532;4.00073;11.55795;-3.12395;-5.02595
+2018;Enero - Diciembre;Soya torta;0;0;1120726.478;464745.5167;-1120726.478;-464745.5167
+2018;Enero - Diciembre;Tomate de árbol;238.22696;525.17585;0;0;238.22696;525.17585
+2018;Enero - Diciembre;Tomate riñón fresco;0.855;2.8728;0;0;0.855;2.8728
+2018;Enero - Diciembre;Tomate riñón conserva incluye pasta;59.2853;91.14952;6260.332075;5559.331923;-6201.046775;-5468.182403
+2018;Enero - Diciembre;Trigo;0;0;1127659.336;300042.7696;-1127659.336;-300042.7696
+2018;Enero - Diciembre;Uva incluye pasa;120.59625;265.7884;12885.54473;24982.26552;-12764.94848;-24716.47712
+2018;Enero - Diciembre;Uvilla fresca y seca;130.20195;1298.64345;0.081;1.32435;130.12095;1297.3191
+2018;Enero - Diciembre;Semilla de varios cultivos;32.26477;724.62196;10571.27975;68637.96972;-10539.01498;-67913.34776
+2018;Enero - Diciembre;Abacá;8256.275;19963.54207;0;0;8256.275;19963.54207
+2018;Enero - Diciembre;Látex, caucho natural, sintético y elaborados;12229.23742;49209.01321;82852.88934;303738.5679;-70623.65192;-254529.5547
+2018;Enero - Diciembre;Madera en bruto y elaborados;762124.7121;394625.1792;127510.4194;82462.0569;634614.2927;312163.1223
+2018;Enero - Diciembre;Pasta de madera y papel o cartón;67144.45716;52596.9116;385448.3919;407762.4382;-318303.9347;-355165.5266
+2018;Enero - Diciembre;Ganado bovino en pie los demás;0;0;0;0;0;0
+2018;Enero - Diciembre;Ganado bovino carne;0.5;0.6;1422.06591;6508.795282;-1421.56591;-6508.195282
+2018;Enero - Diciembre;Ganado porcino en pie los demás;0;0;20.91;578.65279;-20.91;-578.65279
+2018;Enero - Diciembre;Ganado porcino carne;0;0;3444.635457;6043.800624;-3444.635457;-6043.800624
+2018;Enero - Diciembre;Pollo en pie y pollito BB;0;0;166.91047;19366.13976;-166.91047;-19366.13976
+2018;Enero - Diciembre;Leche líquida;0.0008;0.02796;0;0;0.0008;0.02796
+2018;Enero - Diciembre;Leche en polvo;0.00055;0.02344;206.125;453.05952;-206.12445;-453.03608
+2018;Enero - Diciembre;Leche evaporada;0;0;77.5392;97.531;-77.5392;-97.531
+2018;Enero - Diciembre;Leche condensada;0.000387;0.018;1609.136432;2828.95717;-1609.136045;-2828.93917
+2018;Enero - Diciembre;Quesos;102.57291;379.77155;124.022229;972.484003;-21.449319;-592.712453
+2018;Enero - Diciembre;Huevos para incubar;0;0;412.06184;1891.269617;-412.06184;-1891.269617
+2018;Enero - Diciembre;Otros;436146.9696;652463.4355;618547.9114;880954.6529;-182400.9418;-228491.2174
+2019;Enero - Diciembre;Ajo;0;0;15532.4825;18541.53098;-15532.4825;-18541.53098
+2019;Enero - Diciembre;Arroz pilado;29026.78066;18194.6663;229.41244;310.492711;28797.36822;17884.17359
+2019;Enero - Diciembre;Arveja fresco y seco;50.2815;38.51774;2952.202;1164.881078;-2901.9205;-1126.363338
+2019;Enero - Diciembre;Arveja congelada y conserva;65.44;91.25589;312.9895;303.80492;-247.5495;-212.54903
+2019;Enero - Diciembre;Azúcar crudo y refinado;60333.6949;28926.74832;29212.8907;12808.80538;31120.80421;16117.94294
+2019;Enero - Diciembre;Banano;6487306.965;3060345.29;0;0;6487306.965;3060345.29
+2019;Enero - Diciembre;Brócoli;80282.61346;128205.0202;8.1971;7.63616;80274.41636;128197.3841
+2019;Enero - Diciembre;Cacao crudo y tostado;270939.5504;657255.6083;60.143612;229.687835;270879.4068;657025.9205
+2019;Enero - Diciembre;Café soluble, extracto y preparaciones;11056.12688;70929.85864;2011.064719;24701.10359;9045.062161;46228.75505
+2019;Enero - Diciembre;Café sin tostar y tostado;1857.587888;9243.35132;312.24608;2311.417901;1545.341808;6931.933419
+2019;Enero - Diciembre;Cebolla bulbo (roja y perla);0;0;121.3;59.21883;-121.3;-59.21883
+2019;Enero - Diciembre;Chocolate;1595.240206;18785.20124;8948.016612;43983.77307;-7352.776406;-25198.57183
+2019;Enero - Diciembre;Fréjol fresco y seco;8228.78278;10138.53431;452.152511;465.914073;7776.630269;9672.620237
+2019;Enero - Diciembre;Fréjol congelado y conserva;1548.15598;2674.09523;13.378112;18.44047;1534.777868;2655.65476
+2019;Enero - Diciembre;Lenteja;0.0105;0.01902;19786.80263;11474.9367;-19786.79213;-11474.91768
+2019;Enero - Diciembre;Maíz duro seco amarillo;5235.384807;1496.15333;27584.533;5789.71072;-22349.14819;-4293.55739
+2019;Enero - Diciembre;Maíz suave incluye mote y dulce (fresco y seco);8.8408;13.4666;0;0;8.8408;13.4666
+2019;Enero - Diciembre;Maíz dulce congelado y conserva;0.9;1.30986;486.90844;595.543623;-486.00844;-594.233763
+2019;Enero - Diciembre;Manzana;0;0;57548.76804;52348.18307;-57548.76804;-52348.18307
+2019;Enero - Diciembre;Maracuyá fresco;133.74999;372.60227;0;0;133.74999;372.60227
+2019;Enero - Diciembre;Maracuyá jugo;6872.83818;24086.4294;0;0;6872.83818;24086.4294
+2019;Enero - Diciembre;Mora fresca y congelada;89.43254;198.50342;11.9925;13.32355;77.44004;185.17987
+2019;Enero - Diciembre;Orito;170265.4629;110298.9086;0;0;170265.4629;110298.9086
+2019;Enero - Diciembre;Palma aceite crudo y refinado;187494.4372;126848.4633;19041.60411;12973.06363;168452.8331;113875.3997
+2019;Enero - Diciembre;Palmito en conserva;27855.44811;54689.65906;0;0;27855.44811;54689.65906
+2019;Enero - Diciembre;Papa fresca;322.84724;421.96537;0;0;322.84724;421.96537
+2019;Enero - Diciembre;Papa conelada y conserva;104.46384;353.065544;12409.21623;11886.9316;-12304.75239;-11533.86606
+2019;Enero - Diciembre;Piña;89002.21365;42693.86326;0.05;0.33873;89002.16365;42693.52453
+2019;Enero - Diciembre;Pitahaya;7498.814465;44048.45442;0;0;7498.814465;44048.45442
+2019;Enero - Diciembre;Plátano;211732.6347;121252.6958;0;0;211732.6347;121252.6958
+2019;Enero - Diciembre;Quinua;2388.8967;6116.65101;0;0;2388.8967;6116.65101
+2019;Enero - Diciembre;Rosas, flores y capullos frescos o secos;158400.5136;879778.9423;65.103465;311.151061;158335.4102;879467.7912
+2019;Enero - Diciembre;Soya aceite crudo y refinado;0;0;111966.3559;89228.01893;-111966.3559;-89228.01893
+2019;Enero - Diciembre;Soya en grano;4.70194;17.986;0;0;4.70194;17.986
+2019;Enero - Diciembre;Soya torta;0.002;0.013;1152194.217;442331.6198;-1152194.215;-442331.6068
+2019;Enero - Diciembre;Tomate de árbol;545.39338;3392.81161;0;0;545.39338;3392.81161
+2019;Enero - Diciembre;Tomate riñón fresco;0.0375;0.1386;0;0;0.0375;0.1386
+2019;Enero - Diciembre;Tomate riñón conserva incluye pasta;43.6451;84.37236;6465.547314;5598.651983;-6421.902214;-5514.279623
+2019;Enero - Diciembre;Trigo;0;0;1182966.897;315481.4677;-1182966.897;-315481.4677
+2019;Enero - Diciembre;Uva incluye pasa;446.8122;848.13728;12966.00372;23872.09637;-12519.19152;-23023.95909
+2019;Enero - Diciembre;Uvilla fresca y seca;105.69261;864.74926;0.05382;1.34363;105.63879;863.40563
+2019;Enero - Diciembre;Semilla de varios cultivos;33.25125;658.12317;9667.713567;65234.57012;-9634.462317;-64576.44695
+2019;Enero - Diciembre;Abacá;10513.14;28015.10225;0;0;10513.14;28015.10225
+2019;Enero - Diciembre;Látex, caucho natural, sintético y elaborados;13149.32756;50943.76336;85379.95848;297586.1405;-72230.63093;-246642.3771
+2019;Enero - Diciembre;Madera en bruto y elaborados;770764.5876;471923.4759;110715.5613;82754.65998;660049.0262;389168.816
+2019;Enero - Diciembre;Pasta de madera y papel o cartón;47708.61687;36888.25275;351282.2691;373440.7365;-303573.6523;-336552.4837
+2019;Enero - Diciembre;Ganado bovino en pie los demás;0;0;0;0;0;0
+2019;Enero - Diciembre;Ganado bovino carne;0;0;1615.844531;7859.767341;-1615.844531;-7859.767341
+2019;Enero - Diciembre;Ganado porcino en pie los demás;0;0;37.39;813.54982;-37.39;-813.54982
+2019;Enero - Diciembre;Ganado porcino carne;0;0;4271.67579;7062.721995;-4271.67579;-7062.721995
+2019;Enero - Diciembre;Pollo en pie y pollito BB;0;0;157.52164;18263.63954;-157.52164;-18263.63954
+2019;Enero - Diciembre;Leche líquida;26.64803;28.42786;0;0;26.64803;28.42786
+2019;Enero - Diciembre;Leche en polvo;94.47;272.70345;183.9;483.8445;-89.43;-211.14105
+2019;Enero - Diciembre;Leche evaporada;0.0004;0.00592;0;0;0.0004;0.00592
+2019;Enero - Diciembre;Leche condensada;0.02303;0.12364;1739.332416;3086.11624;-1739.309386;-3085.9926
+2019;Enero - Diciembre;Quesos;72.11656;253.69919;186.79405;1321.362075;-114.67749;-1067.662885
+2019;Enero - Diciembre;Huevos para incubar;43.54;242.448;3.744;16.128;39.796;226.32
+2019;Enero - Diciembre;Otros;395429.5099;648184.5846;714500.9671;922608.6966;-319071.4572;-274424.112
+2020;Enero - Diciembre;Ajo;4.94719;7.43536;19618.98;18601.33612;-19614.03281;-18593.90076
+2020;Enero - Diciembre;Arroz pilado;44062.79673;32945.21835;1036.779215;688.555596;43026.01751;32256.66275
+2020;Enero - Diciembre;Arveja fresco y seco;158.9408;115.98762;4600.691627;2088.732245;-4441.750827;-1972.744625
+2020;Enero - Diciembre;Arveja congelada y conserva;98.034;139.50566;403.823159;434.368038;-305.789159;-294.862378
+2020;Enero - Diciembre;Azúcar crudo y refinado;34715.71905;16796.78603;28206.22151;13359.77481;6509.497536;3437.011227
+2020;Enero - Diciembre;Banano;6564319.386;3266567.246;0;0;6564319.386;3266567.246
+2020;Enero - Diciembre;Brócoli;87985.27335;148087.239;0.03;0.03069;87985.24335;148087.2084
+2020;Enero - Diciembre;Cacao crudo y tostado;323398.6239;816392.2522;15.658855;31.04408;323382.9651;816361.2082
+2020;Enero - Diciembre;Café soluble, extracto y preparaciones;9476.02675;59864.29166;1688.147187;22451.0117;7787.879563;37413.27996
+2020;Enero - Diciembre;Café sin tostar y tostado;1954.931557;9914.100816;287.908743;2159.479374;1667.022814;7754.621442
+2020;Enero - Diciembre;Cebolla bulbo (roja y perla);86.096;31.5188;413.4386;196.03328;-327.3426;-164.51448
+2020;Enero - Diciembre;Chocolate;1011.109697;11530.36845;6901.767418;34786.53036;-5890.657721;-23256.16191
+2020;Enero - Diciembre;Fréjol fresco y seco;8510.917096;11905.60422;1229.142;1188.987163;7281.775096;10716.61706
+2020;Enero - Diciembre;Fréjol congelado y conserva;2305.97413;3492.33563;131.132438;210.355062;2174.841692;3281.980568
+2020;Enero - Diciembre;Lenteja;0.149789;0.45464;30384.88297;19113.53711;-30384.73318;-19113.08247
+2020;Enero - Diciembre;Maíz duro seco amarillo;0.1516;0.012;49254.295;10798.36399;-49254.1434;-10798.35199
+2020;Enero - Diciembre;Maíz suave incluye mote y dulce (fresco y seco);10.054679;8.995504;25.94;39.24242;-15.885321;-30.246916
+2020;Enero - Diciembre;Maíz dulce congelado y conserva;28.37917;52.56848;806.639698;1049.50486;-778.260528;-996.93638
+2020;Enero - Diciembre;Manzana;0;0;65885.86348;58180.15492;-65885.86348;-58180.15492
+2020;Enero - Diciembre;Maracuyá fresco;752.29554;260.7296;0;0;752.29554;260.7296
+2020;Enero - Diciembre;Maracuyá jugo;7694.67725;27183.32782;0;0;7694.67725;27183.32782
+2020;Enero - Diciembre;Mora fresca y congelada;88.68571;217.017223;86.0542;117.79216;2.63151;99.225063
+2020;Enero - Diciembre;Orito;465509.147;296361.0904;0;0;465509.147;296361.0904
+2020;Enero - Diciembre;Palma aceite crudo y refinado;162655.0645;120240.1025;4963.90756;4000.112266;157691.1569;116239.9902
+2020;Enero - Diciembre;Palmito en conserva;31315.15244;60920.55781;0;0;31315.15244;60920.55781
+2020;Enero - Diciembre;Papa fresca;565.98116;506.13335;0;0;565.98116;506.13335
+2020;Enero - Diciembre;Papa conelada y conserva;612.300881;610.02801;9337.762662;8623.874511;-8725.461781;-8013.846501
+2020;Enero - Diciembre;Piña;84266.92986;41339.22048;0.000112;0.086928;84266.92975;41339.13355
+2020;Enero - Diciembre;Pitahaya;13208.70665;66433.02061;0;0;13208.70665;66433.02061
+2020;Enero - Diciembre;Plátano;224030.9708;102534.8315;0;0;224030.9708;102534.8315
+2020;Enero - Diciembre;Quinua;1798.42925;4572.41282;33;48.768911;1765.42925;4523.643909
+2020;Enero - Diciembre;Rosas, flores y capullos frescos o secos;152907.1751;827142.1053;15.87836;62.328001;152891.2967;827079.7773
+2020;Enero - Diciembre;Soya aceite crudo y refinado;0.040676;0.09;105125.2447;85614.00848;-105125.204;-85613.91848
+2020;Enero - Diciembre;Soya en grano;0.5;6.762;0;0;0.5;6.762
+2020;Enero - Diciembre;Soya torta;0;0;1225533.464;476508.5853;-1225533.464;-476508.5853
+2020;Enero - Diciembre;Tomate de árbol;798.65292;3779.060127;0;0;798.65292;3779.060127
+2020;Enero - Diciembre;Tomate riñón fresco;0.009;0.00336;0;0;0.009;0.00336
+2020;Enero - Diciembre;Tomate riñón conserva incluye pasta;0.322169;0.384608;7542.39467;6968.766824;-7542.072501;-6968.382216
+2020;Enero - Diciembre;Trigo;0;0;1266216.294;325229.0574;-1266216.294;-325229.0574
+2020;Enero - Diciembre;Uva incluye pasa;569.275439;1306.02178;15247.32988;28287.67466;-14678.05444;-26981.65288
+2020;Enero - Diciembre;Uvilla fresca y seca;102.16865;908.61634;0;0;102.16865;908.61634
+2020;Enero - Diciembre;Semilla de varios cultivos;25.95814;339.62659;8810.902966;59760.72493;-8784.944826;-59421.09834
+2020;Enero - Diciembre;Abacá;11995.3;32731.06885;0;0;11995.3;32731.06885
+2020;Enero - Diciembre;Látex, caucho natural, sintético y elaborados;12422.65441;43030.0434;69703.21543;238624.248;-57280.56102;-195594.2046
+2020;Enero - Diciembre;Madera en bruto y elaborados;719788.6444;830980.3229;76220.54641;59403.27891;643568.098;771577.044
+2020;Enero - Diciembre;Pasta de madera y papel o cartón;26859.16981;22429.0086;289622.9989;279801.6878;-262763.8291;-257372.6792
+2020;Enero - Diciembre;Ganado bovino en pie los demás;0;0;0;0;0;0
+2020;Enero - Diciembre;Ganado bovino carne;0.003;0.01568;1679.136609;8633.200631;-1679.133609;-8633.184951
+2020;Enero - Diciembre;Ganado porcino en pie los demás;0;0;30.53;706.76505;-30.53;-706.76505
+2020;Enero - Diciembre;Ganado porcino carne;0.099429;0.222208;3766.389035;6639.531012;-3766.289606;-6639.308804
+2020;Enero - Diciembre;Pollo en pie y pollito BB;0;0;145.71718;17545.52075;-145.71718;-17545.52075
+2020;Enero - Diciembre;Leche líquida;0.03;0.111;0;0;0.03;0.111
+2020;Enero - Diciembre;Leche en polvo;159.00592;499.45679;298.375;923.782757;-139.36908;-424.325967
+2020;Enero - Diciembre;Leche evaporada;0;0;0;0;0;0
+2020;Enero - Diciembre;Leche condensada;0.06;0.415;1887.412527;3469.599772;-1887.352527;-3469.184772
+2020;Enero - Diciembre;Quesos;75.07083;274.65855;392.951714;2461.099043;-317.880884;-2186.440493
+2020;Enero - Diciembre;Huevos para incubar;11.934;61.336;183.242;907.019983;-171.308;-845.683983
+2020;Enero - Diciembre;Otros;423866.7342;686881.1421;698588.055;963380.0392;-274721.3208;-276498.897
+2021;Enero - Diciembre;Ajo;0;0;19264.759;21359.69149;-19264.759;-21359.69149
+2021;Enero - Diciembre;Arroz pilado;19135.54183;9730.00056;651.10694;706.806941;18484.43489;9023.193619
+2021;Enero - Diciembre;Arveja fresco y seco;91.2668;112.22941;3347.049;1775.868889;-3255.7822;-1663.639479
+2021;Enero - Diciembre;Arveja congelada y conserva;144.7093;395.5819;366.231433;429.042031;-221.522133;-33.460131
+2021;Enero - Diciembre;Azúcar crudo y refinado;21880.07145;15076.50173;39545.41892;19872.54703;-17665.34747;-4796.045303
+2021;Enero - Diciembre;Banano;6625031.804;3272117.148;22.53442;7.533311;6625009.269;3272109.614
+2021;Enero - Diciembre;Brócoli;89602.05734;150177.7723;2.658;3.141262;89599.39934;150174.631
+2021;Enero - Diciembre;Cacao crudo y tostado;329783.6005;819457.1776;15;51.9645;329768.6005;819405.2131
+2021;Enero - Diciembre;Café soluble, extracto y preparaciones;10313.83743;61691.24898;2237.06152;25447.49736;8076.775905;36243.75162
+2021;Enero - Diciembre;Café sin tostar y tostado;4063.316671;16477.13946;361.247103;2866.945448;3702.069568;13610.19401
+2021;Enero - Diciembre;Cebolla bulbo (roja y perla);244.41;51.1668;50;22.6846;194.41;28.4822
+2021;Enero - Diciembre;Chocolate;1753.163496;20229.13717;9449.343529;46113.04213;-7696.180033;-25883.90496
+2021;Enero - Diciembre;Fréjol fresco y seco;7572.19463;7938.5477;528.821635;575.301921;7043.372995;7363.245779
+2021;Enero - Diciembre;Fréjol congelado y conserva;3414.20714;6551.17511;47.123925;99.337165;3367.083215;6451.837945
+2021;Enero - Diciembre;Lenteja;1.26746;2.2916;22501.274;19536.51743;-22500.00654;-19534.22583
+2021;Enero - Diciembre;Maíz duro seco amarillo;4641.83194;1468.14723;57199.92;15109.16658;-52558.08806;-13641.01935
+2021;Enero - Diciembre;Maíz suave incluye mote y dulce (fresco y seco);10.9429;14.13014;200.14;156.869809;-189.1971;-142.739669
+2021;Enero - Diciembre;Maíz dulce congelado y conserva;6.73602;22.83952;1286.956632;1809.587364;-1280.220612;-1786.747844
+2021;Enero - Diciembre;Manzana;0;0;60146.13948;54822.79195;-60146.13948;-54822.79195
+2021;Enero - Diciembre;Maracuyá fresco;3323.78284;979.24207;0;0;3323.78284;979.24207
+2021;Enero - Diciembre;Maracuyá jugo;10690.0549;34342.91266;0;0;10690.0549;34342.91266
+2021;Enero - Diciembre;Mora fresca y congelada;120.77087;352.12493;96.44095;118.400895;24.32992;233.724035
+2021;Enero - Diciembre;Orito;176990.3666;105301.0131;0;0;176990.3666;105301.0131
+2021;Enero - Diciembre;Palma aceite crudo y refinado;113121.9349;139290.4697;14267.52747;19131.74975;98854.40743;120158.7199
+2021;Enero - Diciembre;Palmito en conserva;28941.68254;65689.54676;0;0;28941.68254;65689.54676
+2021;Enero - Diciembre;Papa fresca;52.69501;57.8545;0;0;52.69501;57.8545
+2021;Enero - Diciembre;Papa conelada y conserva;485.806234;797.74573;13943.20374;12859.18218;-13457.39751;-12061.43645
+2021;Enero - Diciembre;Piña;100196.6642;50572.93938;34.92;27.65398;100161.7442;50545.2854
+2021;Enero - Diciembre;Pitahaya;18950.16647;91174.13636;0;0;18950.16647;91174.13636
+2021;Enero - Diciembre;Plátano;211950.0995;104053.9339;0;0;211950.0995;104053.9339
+2021;Enero - Diciembre;Quinua;1439.2783;3379.69698;59.18;71.881836;1380.0983;3307.815144
+2021;Enero - Diciembre;Rosas, flores y capullos frescos o secos;167795.0212;927276.0663;42.761229;147.755311;167752.26;927128.311
+2021;Enero - Diciembre;Soya aceite crudo y refinado;1154.47425;1856.16016;115742.0475;147017.6862;-114587.5733;-145161.526
+2021;Enero - Diciembre;Soya en grano;9.00715;38.12646;0;0;9.00715;38.12646
+2021;Enero - Diciembre;Soya torta;0;0;1450134.168;730464.5368;-1450134.168;-730464.5368
+2021;Enero - Diciembre;Tomate de árbol;783.77162;1965.95181;0;0;783.77162;1965.95181
+2021;Enero - Diciembre;Tomate riñón fresco;0;0;0;0;0;0
+2021;Enero - Diciembre;Tomate riñón conserva incluye pasta;0.0735;0.0813;8058.86404;8421.972326;-8058.79054;-8421.891026
+2021;Enero - Diciembre;Trigo;0;0;1505263.352;499020.8497;-1505263.352;-499020.8497
+2021;Enero - Diciembre;Uva incluye pasa;744.14325;1691.68338;13680.40123;24623.16149;-12936.25798;-22931.47811
+2021;Enero - Diciembre;Uvilla fresca y seca;71.416257;694.56674;0;0;71.416257;694.56674
+2021;Enero - Diciembre;Semilla de varios cultivos;31.41751;202.3852;11214.81528;78622.63455;-11183.39777;-78420.24935
+2021;Enero - Diciembre;Abacá;13598.5;35824.67003;0;0;13598.5;35824.67003
+2021;Enero - Diciembre;Látex, caucho natural, sintético y elaborados;19422.17974;64678.28568;93845.21851;367191.851;-74423.03878;-302513.5654
+2021;Enero - Diciembre;Madera en bruto y elaborados;902189.1224;582978.6716;100023.8939;95128.83541;802165.2285;487849.8362
+2021;Enero - Diciembre;Pasta de madera y papel o cartón;54086.15642;45653.05932;288828.0475;341949.0948;-234741.8911;-296296.0355
+2021;Enero - Diciembre;Ganado bovino en pie los demás;0;0;0;0;0;0
+2021;Enero - Diciembre;Ganado bovino carne;0;0;2253.082237;13639.72657;-2253.082237;-13639.72657
+2021;Enero - Diciembre;Ganado porcino en pie los demás;0;0;27.4;574.23189;-27.4;-574.23189
+2021;Enero - Diciembre;Ganado porcino carne;0.021;0.17225;4684.403011;9652.606559;-4684.382011;-9652.434309
+2021;Enero - Diciembre;Pollo en pie y pollito BB;0;0;152.08982;18618.48187;-152.08982;-18618.48187
+2021;Enero - Diciembre;Leche líquida;537.3601;292.7532;0;0;537.3601;292.7532
+2021;Enero - Diciembre;Leche en polvo;402.757;1448.9571;317.903;1034.665175;84.854;414.291925
+2021;Enero - Diciembre;Leche evaporada;0;0;0;0;0;0
+2021;Enero - Diciembre;Leche condensada;0.131;0.8345;2654.935933;4993.085058;-2654.804933;-4992.250558
+2021;Enero - Diciembre;Quesos;84.04865;307.82636;445.668489;3049.424632;-361.619839;-2741.598272
+2021;Enero - Diciembre;Huevos para incubar;0;0;165.1;729.61734;-165.1;-729.61734
+2021;Enero - Diciembre;Otros;462890.3202;796434.4751;723646.2491;1163799.48;-260755.9289;-367365.0051
+2022;Enero - Diciembre;Ajo;119;60;18,692;18,661;-18,573;-18,601
+2022;Enero - Diciembre;Arroz pilado;45,006;27,683;871;1,069;44,135;26,615
+2022;Enero - Diciembre;Arveja fresco y seco;0;0;2,527;1,751;-2,527;-1,751
+2022;Enero - Diciembre;Arveja congelada y conserva;144.786;338.178;418.993;467.314;-274.207;-129.135
+2022;Enero - Diciembre;Azúcar crudo y refinado;30,913;22,233;61,611;38,144;-30,697;-15,910
+2022;Enero - Diciembre;Banano;5,803,973;3,029,168;0;0;5,803,973;3,029,168
+2022;Enero - Diciembre;Brócoli;97,522;170,518;1;1;97,521;170,517
+2022;Enero - Diciembre;Cacao crudo y tostado;370,931;867,838;30;79;370,902;867,758
+2022;Enero - Diciembre;Café soluble, extracto y preparaciones;11,057;95,351;1,890;28,177;9,167;67,174
+2022;Enero - Diciembre;Café sin tostar y tostado;4,913;25,011;2,007;7,439;2,906;17,572
+2022;Enero - Diciembre;Cebolla bulbo (roja y perla);1,355;277;0;0;1,355;277
+2022;Enero - Diciembre;Chocolate;2,103;24,055;9,966;51,892;-7,863;-27,836
+2022;Enero - Diciembre;Fréjol fresco y seco;8,961;18,488;356;508;8,605;17,980
+2022;Enero - Diciembre;Fréjol congelado y conserva;5,985;18,630;118;183;5,867;18,447
+2022;Enero - Diciembre;Lenteja;0;0;21,349;26,109;-21,349;-26,109
+2022;Enero - Diciembre;Maíz duro seco amarillo;2;3;180,630;63,640;-180,628;-63,637
+2022;Enero - Diciembre;Maíz suave incluye mote y dulce3/;9;14;0;0;9;14
+2022;Enero - Diciembre;Maíz dulce congelado y conserva;23;82;1,139;1,879;-1,117;-1,797
+2022;Enero - Diciembre;Manzana;0;0;56,845;57,093;-56,845;-57,093
+2022;Enero - Diciembre;Maracuyá fresco;2,371;1,032;0;0;2,371;1,032
+2022;Enero - Diciembre;Maracuyá jugo;11,232;41,043;0;0;11,232;41,043
+2022;Enero - Diciembre;Mora (fresca y congelada);173;446;68;111;105;335
+2022;Enero - Diciembre;Orito;566,001;112,048;0;0;566,001;112,048
+2022;Enero - Diciembre;Palma aceite crudo y refinado;126,646;173,555;23,001;36,068;103,645;137,487
+2022;Enero - Diciembre;Palmito en conserva;27,552;84,188;0;0;27,552;84,188
+2022;Enero - Diciembre;Papa fresca;24;51;0;0;24;51
+2022;Enero - Diciembre;Papa conelada y conserva;327;860;15,655;17,781;-15,328;-16,920
+2022;Enero - Diciembre;Piña;100,657;53,741;0;0;100,657;53,741
+2022;Enero - Diciembre;Pitahaya;23,319;99,364;0;0;23,319;99,364
+2022;Enero - Diciembre;Plátano;236,125;122,707;0;0;236,125;122,707
+2022;Enero - Diciembre;Quinua;1,291;2,987;0;0;1,291;2,987
+2022;Enero - Diciembre;Rosas, flores y capullos frescos o secos;164,970;950,500;59;221;164,911;950,279
+2022;Enero - Diciembre;Soya aceite crudo y refinado;223;480;133,341;219,514;-133,118;-219,033
+2022;Enero - Diciembre;Soya en grano;14;70;0;0;14;70
+2022;Enero - Diciembre;Soya torta;0;0;1,709,728;967,370;-1,709,728;-967,370
+2022;Enero - Diciembre;Tomate de árbol;821;1,966;0;0;821;1,966
+2022;Enero - Diciembre;Tomate riñón fresco;0;0;0;0;0;0
+2022;Enero - Diciembre;Tomate riñón conserva incluye pasta;78;96;7,040;10,705;-6,963;-10,608
+2022;Enero - Diciembre;Trigo;0;0;1,384,176;623,770;-1,384,176;-623,770
+2022;Enero - Diciembre;Uva incluye pasa;1,053;2,399;13,586;26,693;-12,533;-24,295
+2022;Enero - Diciembre;Uvilla fresca y seca;108;1,021;0;0;108;1,021
+2022;Enero - Diciembre;Semilla de varios cultivos;23;1,265;11,739;89,638;-11,716;-88,373
+2022;Enero - Diciembre;Abacá;10,852;26,934;0;0;10,852;26,934
+2022;Enero - Diciembre;Látex, caucho natural, sintético y elaborados;17,627;69,948;98,349;408,856;-80,723;-338,909
+2022;Enero - Diciembre;Madera en bruto y elaborados;851,065;595,459;82,695;94,012;768,371;501,447
+2022;Enero - Diciembre;Pasta de madera y papel o cartón;50,735;55,576;386,396;546,535;-335,661;-490,959
+2022;Enero - Diciembre;Ganado bovino en pie los demás;0;0;31;682;-31;-682
+2022;Enero - Diciembre;Ganado bovino carne;0;0;2,034;14,153;-2,034;-14,153
+2022;Enero - Diciembre;Ganado porcino en pie los demás;0;0;41;1,055;-41;-1,055
+2022;Enero - Diciembre;Ganado porcino carne;0;0;5,670;10,792;-5,670;-10,791
+2022;Enero - Diciembre;Papa conelada y conserva;0;0;160;21,352;-160;-21,352
+2022;Enero - Diciembre;Leche líquida;16;54;0;0;16;54
+2022;Enero - Diciembre;Leche en polvo;241;1,089;619;3,075;-377;-1,985
+2022;Enero - Diciembre;Leche evaporada;0;0;0;0;0;0
+2022;Enero - Diciembre;Leche condensada;0;0;2,021;4,379;-2,021;-4,379
+2022;Enero - Diciembre;Quesos;89;361;631;4,511;-542;-4,150
+2022;Enero - Diciembre;Huevos para incubar;0;0;113;450;-113;-450
+2022;Enero - Diciembre;Otros;456,707;854,718;820,517;1,394,900;-363,810;-540,182
+;;;;;;;;
+2023;Enero - Diciembre;Ajo;0;0;17,902;17,561;-17,902;-17,561
+2023;Enero - Diciembre;Arroz pilado;6,931;4,234;17,353;12,881;-10,422;-8,647
+2023;Enero - Diciembre;Arveja fresco y seco;0;0;4,017;2,452;-4,017;-2,452
+2023;Enero - Diciembre;Arveja congelada y conserva;227.807;534.130;407.916;559.135;-180.109;-25.004
+2023;Enero - Diciembre;Azúcar crudo y refinado;9,949;9,261;163,154;121,179;-153,205;-111,918
+2023;Enero - Diciembre;Banano;6,190,172;3,479,948;0;0;6,190,172;3,479,948
+2023;Enero - Diciembre;Brócoli;98,677;175,577;1;1;98,676;175,576
+2023;Enero - Diciembre;Cacao crudo y tostado;362,727;1,172,172;26;76;362,701;1,172,097
+2023;Enero - Diciembre;Café soluble, extracto y preparaciones;13,710;118,051;2,181;31,796;11,529;86,256
+2023;Enero - Diciembre;Café sin tostar y tostado;1,978;12,593;2,623;9,220;-645;3,373
+2023;Enero - Diciembre;Cebolla bulbo (roja y perla);371;69;0;0;371;69
+2023;Enero - Diciembre;Chocolate;1,761;20,895;9,755;52,605;-7,994;-31,710
+2023;Enero - Diciembre;Fréjol fresco y seco;7,096;12,577;167;213;6,929;12,364
+2023;Enero - Diciembre;Fréjol congelado y conserva;3,003;7,889;112;206;2,892;7,683
+2023;Enero - Diciembre;Lenteja;0;1;22,278;26,013;-22,278;-26,012
+2023;Enero - Diciembre;Maíz duro seco amarillo;401;116;172,416;59,165;-172,015;-59,049
+2023;Enero - Diciembre;Maíz suave incluye mote y dulce3/;21;37;0;0;21;37
+2023;Enero - Diciembre;Maíz dulce congelado y conserva;54;161;2,747;4,161;-2,693;-4,001
+2023;Enero - Diciembre;Manzana;0;0;57,339;63,501;-57,339;-63,501
+2023;Enero - Diciembre;Maracuyá fresco;2,951;2,649;0;0;2,951;2,649
+2023;Enero - Diciembre;Maracuyá jugo;9,460;42,253;0;0;9,460;42,253
+2023;Enero - Diciembre;Mora (fresca y congelada);96;317;42;105;53;212
+2023;Enero - Diciembre;Orito;289,541;103,556;0;0;289,541;103,556
+2023;Enero - Diciembre;Palma aceite crudo y refinado;103,265;114,360;3,729;4,034;99,536;110,326
+2023;Enero - Diciembre;Palmito en conserva;24,256;79,192;0;0;24,256;79,192
+2023;Enero - Diciembre;Papa fresca;79;276;0;0;79;276
+2023;Enero - Diciembre;Papa conelada y conserva;419;974;14,841;23,167;-14,422;-22,193
+2023;Enero - Diciembre;Piña;114,428;63,871;9;9;114,419;63,863
+2023;Enero - Diciembre;Pitahaya;54,380;171,742;32;30;54,348;171,713
+2023;Enero - Diciembre;Plátano;236,442;183,360;0;0;236,442;183,360
+2023;Enero - Diciembre;Quinua;803;1,937;20;38;783;1,899
+2023;Enero - Diciembre;Rosas, flores y capullos frescos o secos;180,905;987,064;50;207;180,855;986,857
+2023;Enero - Diciembre;Soya aceite crudo y refinado;7,582;9,734;93,601;121,219;-86,019;-111,485
+2023;Enero - Diciembre;Soya en grano;38;36;0;0;38;36
+2023;Enero - Diciembre;Soya torta;0;0;1,769,072;993,155;-1,769,072;-993,155
+2023;Enero - Diciembre;Tomate de árbol;1,145;2,928;0;0;1,145;2,928
+2023;Enero - Diciembre;Tomate riñón fresco;0;0;0;0;0;0
+2023;Enero - Diciembre;Tomate riñón conserva incluye pasta;0;4;6,459;12,362;-6,459;-12,358
+2023;Enero - Diciembre;Trigo;0;0;1,369,585;514,655;-1,369,585;-514,655
+2023;Enero - Diciembre;Uva incluye pasa;351;1,217;13,424;27,019;-13,074;-25,802
+2023;Enero - Diciembre;Uvilla fresca y seca;44;481;0;0;44;481
+2023;Enero - Diciembre;Semilla de varios cultivos;521;2,741;12,190;93,683;-11,669;-90,943
+2023;Enero - Diciembre;Abacá;10,191;22,956;0;0;10,191;22,956
+2023;Enero - Diciembre;Látex, caucho natural, sintético y elaborados;13,361;67,310;104,177;365,200;-90,816;-297,890
+2023;Enero - Diciembre;Madera en bruto y elaborados;807,302;548,041;83,484;86,514;723,818;461,527
+2023;Enero - Diciembre;Pasta de madera y papel o cartón;53,926;45,399;340,886;436,751;-286,959;-391,352
+2023;Enero - Diciembre;Ganado bovino en pie los demás;0;0;6;55;-6;-55
+2023;Enero - Diciembre;Ganado bovino carne;0;0;2,259;14,456;-2,259;-14,456
+2023;Enero - Diciembre;Ganado porcino en pie los demás;0;0;64;1,722;-64;-1,722
+2023;Enero - Diciembre;Ganado porcino carne;0;0;6,746;14,155;-6,746;-14,155
+2023;Enero - Diciembre;Pollo en pie y pollito BB;0;0;145;21,112;-145;-21,112
+2023;Enero - Diciembre;Leche líquida;8;27;0;0;8;27
+2023;Enero - Diciembre;Leche en polvo;4;28;444;1,497;-439;-1,470
+2023;Enero - Diciembre;Leche evaporada;0;0;0;0;0;0
+2023;Enero - Diciembre;Leche condensada;0;0;2,567;6,344;-2,567;-6,343
+2023;Enero - Diciembre;Quesos;100;457;596;4,654;-497;-4,197
+2023;Enero - Diciembre;Huevos para incubar;0;0;139;554;-139;-554
+2023;Enero - Diciembre;Otros;428,015;916,108;835,376;1,372,982;-407,361;-456,874
+2024;Enero - Abril;Ajo;0;0;5483.1;6772.65167;-5483.1;-6772.65167
+2024;Enero - Abril;Arroz pilado;12117.13868;9715.91204;148.97032;228.760815;11968.16836;9487.151225
+2024;Enero - Abril;Arveja fresco y seco;0;0;738.446;435.17647;-738.446;-435.17647
+2024;Enero - Abril;Arveja congelada y conserva;45.0915;127.19836;121.871422;180.474421;-76.779922;-53.276061
+2024;Enero - Abril;Azúcar crudo y refinado;1142.90365;1259.64115;47929.57488;36284.11475;-46786.67123;-35024.4736
+2024;Enero - Abril;Banano;2120018.78;1250503.801;0;0;2120018.78;1250503.801
+2024;Enero - Abril;Brócoli;37181.95943;74807.68024;2.038102;3.13485;37179.92133;74804.54539
+2024;Enero - Abril;Cacao crudo y tostado;119913.4269;701315.8511;5.19851;13.79254;119908.2284;701302.0585
+2024;Enero - Abril;Café soluble, extracto y preparaciones;4067.0516;39102.5487;954.373515;12231.5944;3112.678085;26870.9543
+2024;Enero - Abril;Café sin tostar y tostado;491.21617;3916.408069;935.832789;3546.932204;-444.616619;369.475865
+2024;Enero - Abril;Cebolla bulbo (roja y perla);2.25;1.0575;0;0;2.25;1.0575
+2024;Enero - Abril;Chocolate;530.975389;5126.557473;2558.517694;14527.42468;-2027.542305;-9400.867207
+2024;Enero - Abril;Fréjol fresco y seco;2043.75992;3596.18662;216.597;273.71185;1827.16292;3322.47477
+2024;Enero - Abril;Fréjol congelado y conserva;398.54908;770.07908;9.827744;29.271165;388.721336;740.807915
+2024;Enero - Abril;Lenteja;0;0;9102.987388;12442.13119;-9102.987388;-12442.13119
+2024;Enero - Abril;Maíz duro seco amarillo;0;0;102076.936;27511.6982;-102076.936;-27511.6982
+2024;Enero - Abril;Maíz suave incluye mote y dulce3/;7.82481;21.71328;0;0;7.82481;21.71328
+2024;Enero - Abril;Maíz dulce congelado y conserva;0;0;797.878033;996.728297;-797.878033;-996.728297
+2024;Enero - Abril;Manzana;0;0;16777.1911;18969.54475;-16777.1911;-18969.54475
+2024;Enero - Abril;Maracuyá fresco;294.5618;438.5803;0;0;294.5618;438.5803
+2024;Enero - Abril;Maracuyá jugo;1903.496;7774.6739;0;0;1903.496;7774.6739
+2024;Enero - Abril;Mora (fresca y congelada);21.494295;53.32953;19.121489;45.823923;2.372806;7.505607
+2024;Enero - Abril;Orito;53871.50879;36311.37942;0;0;53871.50879;36311.37942
+2024;Enero - Abril;Palma aceite crudo y refinado;46205.41457;46489.7857;802.008336;935.564844;45403.40623;45554.22086
+2024;Enero - Abril;Palmito en conserva;9117.650146;28177.51876;0.0068;0.04562;9117.643346;28177.47314
+2024;Enero - Abril;Papa fresca;16.6476;33.6403;0;0;16.6476;33.6403
+2024;Enero - Abril;Papa conelada y conserva;387.223095;1481.54235;4776.59286;7395.905056;-4389.369765;-5914.362706
+2024;Enero - Abril;Piña;37930.9616;20499.77354;0;0;37930.9616;20499.77354
+2024;Enero - Abril;Pitahaya;24629.36443;70754.77944;0;0;24629.36443;70754.77944
+2024;Enero - Abril;Plátano;105971.9335;62224.12432;0;0;105971.9335;62224.12432
+2024;Enero - Abril;Quinua;144.96488;360.2243;32;80.428481;112.96488;279.795819
+2024;Enero - Abril;Rosas, flores y capullos frescos o secos;59643.34694;355757.6786;14.7326;53.732215;59628.61434;355703.9464
+2024;Enero - Abril;Soya aceite crudo y refinado;0;0;19625.56681;20112.05894;-19625.56681;-20112.05894
+2024;Enero - Abril;Soya en grano;0.68296;4.08384;0;0;0.68296;4.08384
+2024;Enero - Abril;Soya torta;0;0;595853.092;308114.0355;-595853.092;-308114.0355
+2024;Enero - Abril;Tomate de árbol;747.059216;2860.44478;0;0;747.059216;2860.44478
+2024;Enero - Abril;Tomate riñón fresco;0;0;0;0;0;0
+2024;Enero - Abril;Tomate riñón conserva incluye pasta;0.024;0.36598;2059.657425;3591.149849;-2059.633425;-3590.783869
+2024;Enero - Abril;Trigo;0;0;474016.525;146829.7704;-474016.525;-146829.7704
+2024;Enero - Abril;Uva incluye pasa;2.016;7.62288;6719.734213;15718.34859;-6717.718213;-15710.72571
+2024;Enero - Abril;Uvilla fresca y seca;44.32592;347.5551;0;0;44.32592;347.5551
+2024;Enero - Abril;Semilla de varios cultivos;1.48733;215.13975;2997.854276;25430.08698;-2996.366946;-25214.94723
+2024;Enero - Abril;Abacá;4026.925;8710.82618;0;0;4026.925;8710.82618
+2024;Enero - Abril;Látex, caucho natural, sintético y elaborados;2859.353076;15420.9587;27610.54167;100473.7222;-24751.18859;-85052.76354
+2024;Enero - Abril;Madera en bruto y elaborados;225347.4507;169865.253;23291.57723;23321.58093;202055.8734;146543.672
+2024;Enero - Abril;Pasta de madera y papel o cartón;18106.95092;14492.46615;103486.6781;117564.4477;-85379.72716;-103071.9815
+2024;Enero - Abril;Ganado bovino en pie los demás;0;0;0;0;0;0
+2024;Enero - Abril;Ganado bovino carne;0;0;966.9031;5780.198446;-966.9031;-5780.198446
+2024;Enero - Abril;Ganado porcino en pie los demás;0;0;12.28;298.22269;-12.28;-298.22269
+2024;Enero - Abril;Ganado porcino carne;0;0;1711.711673;3798.984757;-1711.711673;-3798.984757
+2024;Enero - Abril;Pollo en pie y pollito BB;0;0;49.75372;7648.75303;-49.75372;-7648.75303
+2024;Enero - Abril;Leche líquida;3.1123;20.065;0;0;3.1123;20.065
+2024;Enero - Abril;Leche en polvo;1.628;13.407;179.716;599.127309;-178.088;-585.720309
+2024;Enero - Abril;Leche evaporada;0;0;0;0;0;0
+2024;Enero - Abril;Leche condensada;0.21522;1.03753;840.141732;2091.072958;-839.926512;-2090.035428
+2024;Enero - Abril;Quesos;45.55048;205.2761;158.806712;1298.632724;-113.256232;-1093.356624
+2024;Enero - Abril;Huevos para incubar;0;0;15.426;65.0845;-15.426;-65.0845
+2024;Enero - Abril;Otros;139372.8742;330732.699;233671.0771;402974.2652;-94298.20286;-72241.56625

@@ -7,4 +7,5 @@ Repository containing academic coursework and projects developed at ESPOL.
 - `database-systems/`: Relational database design, SQL scripts, and Python CRUD interfaces.
 - `discrete-mathematics/`: Discrete mathematics implementation in Python.
 - `object-oriented-programming/`: Object-Oriented Programming coursework in Java, covering OOP fundamentals, term exercises, and turn-based battle project.
+- `programming-fundamentals/`: Programming Fundamentals coursework in Python, covering control structures, data structures, NumPy, and Pandas data analysis.
 - `software-design/`: Java code refactoring workshops, code smell detection, and clean code implementation (before/after structure).
