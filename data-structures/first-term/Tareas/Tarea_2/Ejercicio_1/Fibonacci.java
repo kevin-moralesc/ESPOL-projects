@@ -1,3 +1,5 @@
+package Tareas.Tarea_2.Ejercicio_1;
+
 public class Fibonacci {
     
     // Método  para calcular el n-ésimo número de Fibonacci
@@ -15,7 +17,7 @@ public static void main(String[] args){
     // Prueba con un valor negativo
     int resultado = fibonacciRecursivo(-1);
     // Prueba con un valor positivo
-    int resultado2 = fibonacciRecursivo(6);
+    int resultado2 = fibonacciRecursivo(5);
     int resultado3 = fibonacciRecursivo(2);
     System.out.println(resultado);
     System.out.println(resultado2);
