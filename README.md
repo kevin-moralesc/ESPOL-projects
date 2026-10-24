@@ -14,11 +14,3 @@ Repository containing academic coursework and projects developed at ESPOL.
 - `systems-programming/`:  Systems programming in C, covering Linux system calls, process management, memory allocation, multi-threading, sockets, and Makefile build systems.
 
    
-
-
-
-
-
-
-
-
