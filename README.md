@@ -13,15 +13,3 @@ Repository containing academic coursework and projects developed at ESPOL.
 - `software-design/`: Java code refactoring workshops, code smell detection, and clean code implementation (before/after structure).
 - `systems-programming/`:  Systems programming in C, covering Linux system calls, process management, memory allocation, multi-threading, sockets, and Makefile build systems.
 
-
-
-
-
-
-
-
-
-
-
-
-
